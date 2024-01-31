@@ -1,0 +1,23 @@
+title: Networks in Science of Science
+description: "A NetSci 2024 Satellite Workshop"
+
+timezone: Europe/Vienna
+
+navigation:
+  Home: "/"
+  Call for Papers: "/cfp"
+  Accepted Papers: "/papers"
+  Speakers: "/speakers"
+  Schedule: "/schedule"
+  Organizers: "/organizers"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
