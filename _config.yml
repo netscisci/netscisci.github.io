@@ -10,6 +10,7 @@ navigation:
   Speakers: "/speakers"
   Schedule: "/schedule"
   Organizers: "/organizers"
+  2023: "/2023"
 
 markdown: kramdown
 
