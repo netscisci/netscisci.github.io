@@ -28,6 +28,6 @@ The program committee will review and vote on acceptance in the spring, as well 
 
 ## Format
 
-Please submit your abstracts in pdf format to [Openreview]().
+Please submit your abstracts in pdf format to [Openreview](https://openreview.net/group?id=NetSci/2024/Workshop/S4S).
 
 To encourage submission of work at every stage, we do not impose any length limitations. They can also be written using any template, in latex or word. However, if you are writing something from scratch, a 1~3 page extended abstract (with unlimited pages for references and figures) is good enough for us.
