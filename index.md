@@ -22,8 +22,10 @@ The success of these workshops is attributed to the continued interest and engag
 # Important Dates
 
 - **Feb 1**: Call for papers is released
-- **March 3**: Deadline for contributions
-- **March 23**: Acceptance notice
-- **April 8**: Early bird registration for NetSci
+- **March 3**: Round 1 deadline for contributions
+- **March 23**: Round 1 acceptance notice
+- **April 1**: [Early bird registration](https://netsci2024.com/en/participate/registration) for NetSci
+- **April 20**: Round 2 deadline for contributions
+- **May 4**: Round 2 acceptance notice
 - **June 17 or 18**: Workshop
 
