@@ -22,7 +22,7 @@ This workshop does not have archival proceedings. Therefore we explicitly welcom
 - new empirical work
 - recently published papers
 - under peer review (e.g. papers published on arxiv or SSRN)
-- early drafts and work in progress
+- early drafts and work in progress, including those not accepted at NetSci 2024
 
 The program committee will review and vote on acceptance in the spring, as well as Best Student Paper Award.
 
@@ -30,4 +30,4 @@ The program committee will review and vote on acceptance in the spring, as well 
 
 Please submit your abstracts in pdf format to [Openreview](https://openreview.net/group?id=NetSci/2024/Workshop/S4S).
 
-To encourage submission of work at every stage, we do not impose any length limitations. They can also be written using any template, in latex or word. However, if you are writing something from scratch, a 1~3 page extended abstract (with unlimited pages for references and figures) is good enough for us.
+To encourage submission of work at every stage, we do not impose any length limitations. They can also be written using any template, in latex or word. However, if you are writing something from scratch and are looking for guidelines, a 1~3 page extended abstract (with unlimited pages for references and figures) is good enough for us. 
