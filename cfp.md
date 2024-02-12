@@ -20,10 +20,11 @@ In addition, we seek submissions in the developing areas of exploration concerne
 
 This workshop does not have archival proceedings. Therefore we explicitly welcome submissions that are:
 - new empirical work
-- recently published papers
+- recently published papers (2023-2024)
 - under peer review (e.g. papers published on arxiv or SSRN)
-- early drafts and work in progress, including those not accepted at NetSci 2024
+- early drafts and work in progress
 
+The submitted works can**not** be those presented at other sessions in NetSci 2024.
 The program committee will review and vote on acceptance in the spring, as well as Best Student Paper Award.
 
 ## Format
