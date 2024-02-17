@@ -18,17 +18,22 @@ We welcome submissions that explore the use of network science in the field of S
 
 In addition, we seek submissions in the developing areas of exploration concerned with the **impact of diverse voices, intellectual backgrounds, and intelligences (including Artificial Intelligence) on scientific advance**. 
 
-This workshop does not have archival proceedings. Therefore we explicitly welcome submissions that are:
+## Scope
+
+This workshop does not have archival proceedings. Therefore we welcome submissions that are:
 - new empirical work
 - recently published papers (2023-2024)
 - under peer review (e.g. papers published on arxiv or SSRN)
-- early drafts and work in progress
+- works in progress
 
-The submitted works can**not** be those presented at other sessions in NetSci 2024.
-The program committee will review and vote on acceptance in the spring, as well as Best Student Paper Award.
+The submitted works cannot be those presented orally at other sessions in NetSci. The program committee will review and vote on acceptance and Best Student Paper Award. Please declare the submission as a student paper by using the keyword “student paper” in the keywords section. 
 
 ## Format
+They can be written using any template, in latex or word.
 
-Please submit your extended abstracts in pdf format to [OpenReview](https://openreview.net/group?id=NetSci/2024/Workshop/S4S).
+**Option 1**: Submit a PDF file of your publication or preprint. This option requires minimal work and is suitable for authors having no copyright restrictions or other concerns that prevent them from uploading their paper/preprint to a different site. 
 
-To encourage submission of work at every stage, we do not impose any *strict* length limitations. They can also be written using any template, in latex or word. However, if you are writing something from scratch and are looking for guidelines, a 2~3 page extended abstract (with unlimited pages for references and figures) is good enough for us. 
+**Option 2**: An abstract. The file should be a PDF. We suggest 1 to 3 pages with unlimited pages for references and figures, but you are free to go beyond 3 pages. You can use any template of your choice.
+
+## Submission
+We will conduct two rounds of submissions. If you want to take advantage of NetSci’s early bird registration rate, please submit to Round 1, and we will let you know our decision by March 23. Enter your submission on [OpenReview](https://openreview.net/group?id=NetSci/2024/Workshop/S4S). 
