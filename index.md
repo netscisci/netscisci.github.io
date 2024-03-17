@@ -27,5 +27,6 @@ The success of these workshops is attributed to the continued interest and engag
 - **April 8**: [Early bird registration](https://netsci2024.com/en/participate/registration) for NetSci
 - **April 20**: Round 2 deadline for contributions
 - **May 4**: Round 2 acceptance notice
-- **June 17 or 18**: Workshop
+- **June 18 Afternoon**: Workshop
+- **June 18 Evening**: Networking Dinner
 
