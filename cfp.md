@@ -37,3 +37,14 @@ They can be written using any template, in latex or word.
 
 ## Submission
 We will conduct two rounds of submissions. If you want to take advantage of NetSci’s early bird registration rate, please submit to Round 1, and we will let you know our decision by March 23. Enter your submission on [OpenReview](https://openreview.net/group?id=NetSci/2024/Workshop/S4S). 
+
+
+## Important Dates
+
+- **Feb 1**: Call for papers is released
+- **March 3**: Round 1 deadline for contributions
+- **March 23**: Round 1 acceptance notice
+- **April 8**: [Early bird registration](https://netsci2024.com/en/participate/registration) for NetSci
+- **April 20**: Round 2 deadline for contributions
+- **May 4**: Round 2 acceptance notice
+- **June 18 Afternoon**: Workshop
