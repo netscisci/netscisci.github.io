@@ -5,7 +5,7 @@ layout: default
 # Speakers
 
 <div class='orgWrapper'>
-  <img src="assets/images/jinhyuk_yun.png" alt="Jinhyuk Yun" width="150" />
+  <img src="assets/images/jinhyuk_yun.jpg" alt="Jinhyuk Yun" width="150" />
 <div class='bioWrapper'>
   **Title**: How COVID-19 Impacted Academia?
 <br/><br/>
