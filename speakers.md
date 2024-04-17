@@ -16,7 +16,7 @@ layout: default
 <br/>
 
 <div class='orgWrapper'>
-  <img src="assets/images/gomez-zara-hs.jpg" alt="Michael Kopp" width="150" />
+  <img src="assets/images/gomez-zara-hs.jpg" alt="Diego Gómez-Zará" width="150" />
 <div class='bioWrapper'>
   **Title**: How does team gender composition affect scientific disruption? 
 <br/><br/>
