@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-This is the homepage for our [NetSci 2024](https://netsci2024.com/en) workshop on 'Networks in Science of Science', which will be held in Quebec City, Canada on June 17-18, 2024.
+This is the homepage for our [NetSci 2024](https://netsci2024.com/en) workshop on 'Networks in Science of Science', which will be held in Quebec City, Canada on June 18, 2024.
 
 # Background
 
