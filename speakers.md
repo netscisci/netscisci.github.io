@@ -39,11 +39,11 @@ layout: default
 
 
 <div class='orgWrapper'>
-<!--  <img src="assets/images/.jpg" alt="Daniel Souza" width="150" />-->
+<img src="assets/images/Daniel Souza.jpg" alt="Daniel Souza" width="150" />
 <div class='bioWrapper'>
-  **Title**: TBD
+  **Title**: The Emergence of the Economics of Science: Evidence from the WOEPS workshop (2007-2023)
 <br/><br/>
-[**Dr. Daniel Souza**](https://www.som.polimi.it/professor/de-souza-daniel-fernando/) 
+[**Dr. Daniel Souza**](https://www.som.polimi.it/professor/de-souza-daniel-fernando/) is an Assistant Professor at the Polytechnic University of Milan. He holds a PhD in Economics from the University of Turin, where he previously worked as a postdoctoral researcher. His research lies broadly at the intersection of economics, science & technology studies, and science of science. His research agenda encompasses various themes such as university-industry collaboration, open science and the dynamics of scientific collaborations. Currently, he is exploring the role of universities within entrepreneurial ecosystems and the emergence of artificial intelligence as a possible general-purpose technology.
 </div>
 </div>
 <br/>
