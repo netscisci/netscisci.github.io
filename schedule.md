@@ -14,8 +14,8 @@ The satellite workshop will take place in the afternoon of June 18 at Québec Ci
 | Time      | Speakers |
 | ----------- | ----------- |
 | 12:30pm - 2:30pm | Lunch |
-| 2:30 pm - 2:45 pm   | Opening Remarks |
-| 2:45 pm - 4:00 pm   |  |
+| 2:30 pm - 2:45 pm   | Opening remarks |
+| 2:45 pm - 4:00 pm   | Contributed talks |
 | 4:00 pm - 4:30 pm | Coffee break        |
 | 4:30 pm - 6:00 pm | [Jinhyuk Yun](https://bluekura.github.io/) <br> [Diego Gómez-Zará](https://www.dgomezara.cl/) <br> [Daniel Souza](https://www.som.polimi.it/professor/de-souza-daniel-fernando/)      |
 
