@@ -13,7 +13,7 @@ The satellite workshop will take place in the afternoon of June 18 at Québec Ci
 
 | Time      | Speakers |
 | ----------- | ----------- |
-| 12:30pm - 2:30pm | Lunch |
+| 12:30pm - 1:30pm | Sci of Sci researcher networking Lunch |
 | 2:30 pm - 2:45 pm   | Opening remarks |
 | 2:45 pm - 4:00 pm   | Contributed talks |
 | 4:00 pm - 4:30 pm | Coffee break        |
