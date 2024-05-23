@@ -23,7 +23,7 @@ layout: default
 <br/>
 
 <div class='orgWrapper'>
-<img src="https://harlinlee.github.io/headshot-smallest.jpg" alt="Harlin Lee" width="150" />
+<img src="https://harlinlee.github.io/headshot-new.jpg" alt="Harlin Lee" width="150" />
 <div class='bioWrapper'>
 [**Harlin Lee**](https://harlinlee.github.io) is an Assistant Professor at the **School of Data Science and Society (SDSS) at University of North Carolina, Chapel Hill** with secondary appointments in the departments of mathematics and computer science. Previously, she was a postdoc at UCLA Applied Math, and received her PhD in Electrical and Computer Engineering and MS in Machine Learning from Carnegie Mellon University in 2021. She got her BS and MEng in Electrical Engineering and Computer Science from MIT in 2016 and 2017, respectively.
 
