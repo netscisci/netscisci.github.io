@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-The satellite workshop will take place in the afternoon of June 18 at Québec City, Canada in room 2102AB. 
+The satellite workshop will take place in the afternoon of June 18 in room 2102AB. 
 
 - 1 Opening remarks by [Vincent Larivière](https://unesco.ebsi.umontreal.ca/en/vincent-lariviere/) (15 minutes)
 - 4 [Contributed talks](https://netscisci.github.io/papers) (15 minutes talk + 3 minutes Q&A each)
