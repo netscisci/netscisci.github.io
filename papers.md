@@ -7,6 +7,6 @@ layout: default
 
 **All-Female Teams Produce More Disruptive Work: Evidence from Scientific Papers** by Nandini Banerjee and Diego Gomez-Zara
 
-**Dissecting Knowledge Landscape Embeddings** by Liubov Tupikina
+**Dissecting Knowledge Landscape Embeddings** by Liubov Tupikina, Marc Santolini and Hkritika Kathuria
 
 **A Block-corrected Modularity Approach for Community Detection in Scientific Citation Networks** by Hasti Narimanzadeh, Takayuki Hiraoka, Mikko Kivelä
