@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-The satellite workshop will take place in the afternoon of June 18 at Québec City, Canada. 
+The satellite workshop will take place in the afternoon of June 18 at Québec City, Canada in room 2102AB. 
 
 - 1 Opening remarks by [Vincent Larivière](https://unesco.ebsi.umontreal.ca/en/vincent-lariviere/) (15 minutes)
 - 4 [Contributed talks](https://netscisci.github.io/papers) (15 minutes talk + 3 minutes Q&A each)
@@ -15,7 +15,7 @@ The satellite workshop will take place in the afternoon of June 18 at Québec Ci
 | ----------- | ----------- |
 | 12:30pm - 1:30pm | Sci of Sci researcher networking Lunch |
 | 2:30 pm - 2:45 pm   | Opening remarks |
-| 2:45 pm - 4:00 pm   | Contributed talks |
+| 2:45 pm - 4:00 pm   | Exploring International Collaboration Dynamics through Multilayer Network Analysis <br/> Dissecting Knowledge Landscape Embeddings<br/> A Block-corrected Modularity Approach for Community Detection in Scientific Citation Networks <br/> All-Female Teams Produce More Disruptive Work: Evidence from Scientific Papers |
 | 4:00 pm - 4:30 pm | Coffee break        |
 | 4:30 pm - 6:00 pm | [Jinhyuk Yun](https://bluekura.github.io/) <br> [Diego Gómez-Zará](https://www.dgomezara.cl/) <br> [Daniel Souza](https://www.som.polimi.it/professor/de-souza-daniel-fernando/)      |
 
