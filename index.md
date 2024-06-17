@@ -27,6 +27,6 @@ The success of these workshops is attributed to the continued interest and engag
 - ~~**April 8**: [Early bird registration](https://netsci2024.com/en/participate/registration) for NetSci~~
 - ~~**April 20**: Round 2 deadline for contributions~~
 - ~~**May 4**: Round 2 acceptance notice~~
-- **June 18 12:30 - 1:30 pm**: Sci of Sci researcher networking lunch. Location will be announced by the end of June 17.
+- **June 18 12:30 - 1:30 pm**: Sci of Sci researcher networking lunch. Location: Cochon Dingue @ 1014 Rue Saint-Jean.
 - **June 18 2:30 - 6:00 pm**: Workshop
 
