@@ -13,7 +13,7 @@ The satellite workshop will take place in the afternoon of June 18 in room 2102A
 
 | Time      | Speakers |
 | ----------- | ----------- |
-| 12:30pm - 1:30pm | Sci of Sci researcher networking Lunch |
+| 12:30pm - 1:30pm | Sci of Sci researcher networking Lunch. Cochon Dingue @ 1014 Saint-Jean |
 | 2:30 pm - 2:45 pm   | Opening remarks |
 | 2:45 pm - 4:00 pm   | Pei-Ying Chen <br/> Nandini Banerjee <br/> Liubov Tupikina <br/> Hasti Narimanzadeh |
 | 4:00 pm - 4:30 pm | Coffee break        |
