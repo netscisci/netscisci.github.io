@@ -9,4 +9,4 @@ layout: default
 
 [**Dissecting Knowledge Landscape Embeddings**](https://netscisci.github.io/assets/papers/4_dissecting_knowledge_landscape.pdf) by Liubov Tupikina, Marc Santolini and Hkritika Kathuria
 
-[**A Block-corrected Modularity Approach for Community Detection in Scientific Citation Networks**](https://netscisci.github.io/assets/papers/5_a_block_corrected_modularity_a.pdf) by Hasti Narimanzadeh, Takayuki Hiraoka, Mikko Kivelä
+[**A Block-corrected Modularity Approach for Community Detection in Scientific Citation Networks**](https://netscisci.github.io/assets/papers/5_a_block_corrected_modularity_a.pdf) by Hasti Narimanzadeh, Takayuki Hiraoka, Mikko Kivelä **(Best Student Paper Award)**
