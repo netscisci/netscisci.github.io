@@ -7,7 +7,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="https://ischool.illinois.edu/sites/default/files/styles/large_square/public/images/YuanxiFu.jpg?itok=pV359inZ" alt="Yuanxi Fu" width="150" />
 <div class='bioWrapper'>
-[**Yuanxi Fu**](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her current research focus is argumentation in science with an emphasis on theoretical and conceptual innovations. She and Prof. Jodi Schneider proposed the Keystone Framework in 2020 to determine the impact of citing unreliable resources (e.g., retracted papers, computer code containing errors). She, Schneider, and UIUC iSchool PhD student Tzu-Kun (Esther) Hsiao proposed a new network construct called the inclusion network in 2020. Later, she and Schneider developed the inclusion network approach to help decision-makers assess risks in systematic reviews. A manuscript reporting the inclusion network approach and two case studies has recently been accepted by the journal Quantitative Science Studies. 
+[**Yuanxi Fu**](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her area of research is argumentation in science. 
 </div>
 </div>
 <br/>
