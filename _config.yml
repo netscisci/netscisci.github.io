@@ -1,5 +1,5 @@
 title: Networks in Science of Science
-description: "A NetSci 2024 Satellite Workshop"
+description: "A NetSci 2025 Satellite Workshop"
 
 timezone: Europe/Vienna
 
@@ -11,6 +11,7 @@ navigation:
   Schedule: "/schedule"
   Organizers: "/organizers"
   2023: "/2023"
+  2024: "/2024"
 
 markdown: kramdown
 
