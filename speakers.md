@@ -4,6 +4,9 @@ layout: default
 
 # Speakers
 
+TBD 
+
+<!--
 <div class='orgWrapper'>
   <img src="assets/images/Vincent_Lariviere.jpg" alt="Vincent Lariviere" width="150" />
 <div class='bioWrapper'>
@@ -48,3 +51,5 @@ layout: default
 </div>
 <br/>
 <br/>
+
+-->
