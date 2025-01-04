@@ -4,6 +4,9 @@ layout: default
 
 # Call for Papers
 
+TBD
+
+<!--
 We welcome submissions that explore the use of network science in the field of Science of Science. This includes (but is not limited to) topics such as the analysis of:
 - citation networks
 - collaboration networks
@@ -47,4 +50,5 @@ We will conduct two rounds of submissions. If you want to take advantage of NetS
 - **April 8**: [Early bird registration](https://netsci2024.com/en/participate/registration) for NetSci
 - **April 20**: Round 2 deadline for contributions
 - **May 4**: Round 2 acceptance notice
-- **June 18 Afternoon**: Workshop
+- **June 18 Afternoon**: Workshop 
+-->
