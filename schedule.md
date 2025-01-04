@@ -4,6 +4,9 @@ layout: default
 
 # Schedule
 
+TBD 
+
+<!--
 The satellite workshop will take place in the afternoon of June 18 in room 2102AB. 
 
 - 1 Opening remarks by [Vincent Larivière](https://unesco.ebsi.umontreal.ca/en/vincent-lariviere/) (15 minutes)
@@ -21,3 +24,4 @@ The satellite workshop will take place in the afternoon of June 18 in room 2102A
 
 
 Please refer to the [NetSci 2024 program](https://netsci2024.com/en) for the full conference schedule. 
+-->
