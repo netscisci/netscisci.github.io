@@ -4,14 +4,15 @@ layout: default
 
 # Call for Papers
 
-Please join us in beautiful Maastricht this June for the “Networks in Science of Science” workshop, a satellite of [NetSci25](https://netsci2025.github.io/). We invite researchers and practitioners to share their work on the use of network approaches applied to studies in science of science. We particularly encourage submissions from junior researchers, including graduate students, postdocs, and pre-tenure professors. We will award a Best Student Paper Award, recognizing the best submission led by a graduate student. There will be a networking lunch following the morning half of the workshop. 
+Please join us in beautiful Maastricht this June for the “Networks in Science of Science” workshop, a satellite of [NetSci25](https://netsci2025.github.io/). We invite researchers and practitioners to share their work on the use of network approaches applied to studies in science of science. We particularly encourage submissions from junior researchers, including graduate students, postdocs, and pre-tenure professors. We will award a Best Student Paper Award, recognizing the best submission led by a graduate student(s). We will host a networking lunch following the morning workshop. 
 
 ![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66)
 
 **Scope**
+
 We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): the analyses of relevant network data (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), development of novel methods for science of science applications (e.g., graph embedding, link prediction), and experimentations with representations (e.g., hypergraph, multilayer graph). In addition, we seek submissions in the developing areas of exploration concerned with the impact of diverse voices and intellectual backgrounds, political policies, and intelligences (including Artificial Intelligence) on scientific advancements. 
 
-This edition will feature the theme of “Science and Society.” Submissions closer to the theme will be particularly welcome. The program committee will review the abstracts for the acceptance as either a contributed talk or a lightning talk in the spring. The Best Student Paper Award will be voted on at the workshop by the audience. Submissions cannot be those presented orally at other sessions in NetSci.
+The theme of submission this year is “Science and Society.” Submissions closer to the theme will be particularly welcome. The program committee will review the abstracts for the acceptance as either a contributed talk or a lightning talk in the spring. The Best Student Paper Award will be voted on at the workshop by the audience. Submissions cannot be those presented orally at other sessions in NetSci.
 
 This workshop does not have archival proceedings. Therefore, submissions can be:
 - recently published (2024-2025)
