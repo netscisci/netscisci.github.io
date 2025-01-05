@@ -19,14 +19,17 @@ This workshop does not have archival proceedings. Therefore, submissions can be:
 - works in progress
   
 **Submission Format**
+
 _Option 1:_ Submit a PDF file of your publication or preprint. This option requires minimal work and is suitable for authors having no copyright restrictions or other concerns that prevent them from uploading their paper/preprint to a different site. 
 
 _Option 2: _An abstract. The file should be a PDF. We suggest 1 to 3 pages with unlimited pages for references and figures, but you are free to go beyond 3 pages. You can use any template of your choice.
 
 **Submission Portal**
+
 Enter your submission on EasyChair (https://easychair.org/my/conference?conf=netscisci2025). The portal and any updates to CFP can be found on the workshop website: https://netscisci.github.io/cfp 
 
 **Important Dates**
+
 We will conduct two rounds of submissions. If you want to take advantage of NetSci’s early bird registration rate, please submit to Round 1, and we will let you know our decision by February 21, 2025. 
 
 January 10: Call for abstracts is released
@@ -49,13 +52,12 @@ Liubov Tupikina, ITMO, Bell Labs, Paris Descartes LPI, France
 Dongyi Wang, Centre for Science and Technology Studies, Leiden University, Netherlands
 
 **The Program Committee**
-Vincent Traag, Centre for Science and Technology Studies, Leiden University, Netherlands
-Bart Thijs, KU Leuven, Belgium
-Lucila Gisele Alvarez Zuzek, Bruno Kessler Foundation
-Jian Du, Peking University, China
-Charles Gomez, University of Arizona, USA
 
-
+* Vincent Traag, Centre for Science and Technology Studies, Leiden University, Netherlands
+* Bart Thijs, KU Leuven, Belgium
+* Lucila Gisele Alvarez Zuzek, Bruno Kessler Foundation
+* Jian Du, Peking University, China
+* Charles Gomez, University of Arizona, USA
 
 <!--
 We welcome submissions that explore the use of network science in the field of Science of Science. This includes (but is not limited to) topics such as the analysis of:
