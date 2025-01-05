@@ -6,8 +6,6 @@ layout: default
 
 Please join us in beautiful Maastricht this June for the “Networks in Science of Science” workshop, a satellite of [NetSci25](https://netsci2025.github.io/). We invite researchers and practitioners to share their work on the use of network approaches applied to studies in science of science. We particularly encourage submissions from junior researchers, including graduate students, postdocs, and pre-tenure professors. We will award a Best Student Paper Award, recognizing the best submission led by a graduate student(s). We will host a networking lunch following the morning workshop. 
 
-![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66){width=100 height=200}
-
 **Scope**
 
 We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): the analyses of relevant network data (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), development of novel methods for science of science applications (e.g., graph embedding, link prediction), and experimentations with representations (e.g., hypergraph, multilayer graph). In addition, we seek submissions in the developing areas of exploration concerned with the impact of diverse voices and intellectual backgrounds, political policies, and intelligences (including Artificial Intelligence) on scientific advancements. 
@@ -60,6 +58,8 @@ June 2 or 3 (depending on NetSci’s arrangement): Workshop
 * Lucila Gisele Alvarez Zuzek, Bruno Kessler Foundation
 * Jian Du, Peking University, China
 * Charles Gomez, University of Arizona, USA
+
+![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66)
 
 <!--
 We welcome submissions that explore the use of network science in the field of Science of Science. This includes (but is not limited to) topics such as the analysis of:
