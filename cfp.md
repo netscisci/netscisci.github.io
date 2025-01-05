@@ -4,7 +4,11 @@ layout: default
 
 # Call for Papers
 
-TBD
+Dear Colleagues,
+
+Please join us in beautiful Maastricht this June for the “Networks in Science of Science” workshop, a satellite of [NetSci25](https://netsci2025.github.io/). We invite researchers and practitioners to share their work on the use of network approaches applied to studies in science of science. We particularly encourage submissions from junior researchers, including graduate students, postdocs, and pre-tenure professors. We will award a Best Student Paper Award, recognizing the best submission led by a graduate student. There will be a networking lunch following the morning half of the workshop. 
+
+
 
 <!--
 We welcome submissions that explore the use of network science in the field of Science of Science. This includes (but is not limited to) topics such as the analysis of:
