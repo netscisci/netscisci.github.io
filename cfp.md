@@ -22,7 +22,7 @@ This workshop does not have archival proceedings. Therefore, submissions can be:
 
 _Option 1:_ Submit a PDF file of your publication or preprint. This option requires minimal work and is suitable for authors having no copyright restrictions or other concerns that prevent them from uploading their paper/preprint to a different site. 
 
-_Option 2: _An abstract. The file should be a PDF. We suggest 1 to 3 pages with unlimited pages for references and figures, but you are free to go beyond 3 pages. You can use any template of your choice.
+_Option 2:_ An abstract. The file should be a PDF. We suggest 1 to 3 pages with unlimited pages for references and figures, but you are free to go beyond 3 pages. You can use any template of your choice.
 
 **Submission Portal**
 
@@ -41,15 +41,16 @@ March 29: Round 2 acceptance notice
 June 2 or 3 (depending on NetSci’s arrangement): Workshop
 
 **The Organizing Committee**
-Yuanxi Fu (contact), School of Information Sciences, University of Illinois Urbana-Champaign, USA
-Akrati Saxena (local host), LIACS, Leiden University, Netherlands
-Sarah Bratt, School of Information, University of Arizona, USA
-Juan Pablo Bascur, PhD student, Centre for Science and Technology Studies, Leiden University, Netherlands
-Harlin Lee, School of Data Science and Society, University of North Carolina at Chapel Hill, USA
-Satyaki Sikdar, Computer Science, Loyola University Chicago, USA
-Eun Lee, Pukyong National University, South Korea
-Liubov Tupikina, ITMO, Bell Labs, Paris Descartes LPI, France
-Dongyi Wang, Centre for Science and Technology Studies, Leiden University, Netherlands
+
+* Yuanxi Fu (contact), School of Information Sciences, University of Illinois Urbana-Champaign, USA
+* Akrati Saxena (local host), LIACS, Leiden University, Netherlands
+* Sarah Bratt, School of Information, University of Arizona, USA
+* Juan Pablo Bascur, PhD student, Centre for Science and Technology Studies, Leiden University, Netherlands
+* Harlin Lee, School of Data Science and Society, University of North Carolina at Chapel Hill, USA
+* Satyaki Sikdar, Computer Science, Loyola University Chicago, USA
+* Eun Lee, Pukyong National University, South Korea
+* Liubov Tupikina, ITMO, Bell Labs, Paris Descartes LPI, France
+* Dongyi Wang, Centre for Science and Technology Studies, Leiden University, Netherlands
 
 **The Program Committee**
 
