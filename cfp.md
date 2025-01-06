@@ -31,13 +31,13 @@ Enter your submission on EasyChair [https://easychair.org/my/conference?conf=net
 
 We will conduct two rounds of submissions. If you want to take advantage of NetSci’s early bird registration rate, please submit to Round 1, and we will let you know our decision by February 21, 2025. 
 
-January 10: Call for abstracts is released
-February 8: Round 1 deadline
-February 21: Round 1 acceptance notice
-February 24: Deadline for early bird registration rate (-€100 from the regular rate, https://netsci2025.github.io/registration/)
-March 15: Round 2 deadline
-March 29: Round 2 acceptance notice
-June 2 or 3 (depending on NetSci’s arrangement): Workshop
+January 10: Call for abstracts is released  
+February 8: Round 1 deadline  
+February 21: Round 1 acceptance notice  
+February 24: Deadline for early bird registration rate (-€100 from the regular rate, [https://netsci2025.github.io/registration/](https://netsci2025.github.io/registration/))  
+March 15: Round 2 deadline  
+March 29: Round 2 acceptance notice  
+June 2 or 3 (depending on NetSci’s arrangement): Workshop  
 
 **The Organizing Committee**
 
