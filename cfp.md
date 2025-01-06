@@ -8,9 +8,9 @@ Please join us in beautiful Maastricht this June for the “Networks in Science 
 
 **Scope**
 
-We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): the analyses of relevant network data (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), development of novel methods for science of science applications (e.g., graph embedding, link prediction), and experimentations with representations (e.g., hypergraph, multilayer graph). In addition, we seek submissions in the developing areas of exploration concerned with the impact of diverse voices and intellectual backgrounds, political policies, and intelligences (including Artificial Intelligence) on scientific advancements. 
+We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): **the analyses of relevant network data** (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), **development of novel methods for science of science applications** (e.g., graph embedding, link prediction), and **experimentations with representations** (e.g., hypergraph, multilayer graph). In addition, we seek submissions in the developing areas of exploration concerned with **the impact of diverse voices and intellectual backgrounds**, **political policies**, and **intelligences** (including Artificial Intelligence) on scientific advancements. 
 
-The theme of submission this year is “Science and Society.” Submissions closer to the theme will be particularly welcome. The program committee will review the abstracts for the acceptance as either a contributed talk or a lightning talk in the spring. The Best Student Paper Award will be voted on at the workshop by the audience. Submissions cannot be those presented orally at other sessions in NetSci.
+The theme of submission this year is “**Science and Society**.” Submissions closer to the theme will be particularly welcome. The program committee will review the abstracts for the acceptance as either a contributed talk or a lightning talk in the spring. The Best Student Paper Award will be voted on at the workshop by the audience. Submissions cannot be those presented orally at other sessions in NetSci.
 
 This workshop does not have archival proceedings. Therefore, submissions can be:
 - recently published (2024-2025)
@@ -25,7 +25,7 @@ _Option 2:_ An abstract. The file should be a PDF. We suggest 1 to 3 pages with 
 
 **Submission Portal**
 
-Enter your submission on EasyChair (https://easychair.org/my/conference?conf=netscisci2025). The portal and any updates to CFP can be found on the workshop website: https://netscisci.github.io/cfp 
+Enter your submission on EasyChair [https://easychair.org/my/conference?conf=netscisci2025](https://easychair.org/my/conference?conf=netscisci2025). The portal and any updates to CFP can be found on the workshop website: https://netscisci.github.io/cfp 
 
 **Important Dates**
 
