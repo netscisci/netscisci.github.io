@@ -3,8 +3,20 @@ layout: default
 ---
 
 # Schedule
+Tentative Schedule (subject to change)
+- Morning (3 hours)
+  - Kick-off and opening remarks by an invited speaker (30 minutes)
+  - 2 invited talks (30 minutes * 2)
+  - Coffee break (30 minutes)
+  - 2 invited talks (30 minutes * 2)
+- Networking Lunch (1 hour)
+  - Afternoon (3 hours)
+  - 4 contributed talks (20 minutes * 4)
+  - Coffee break (30 minutes)
+  - Lightning talks (5 minutes *3)
+  - Panel discussion: future directions + funding sources in Sci of Sci for junior researchers (45 minutes)
+  - Concluding remarks (10 minutes)
 
-TBD 
 
 <!--
 The satellite workshop will take place in the afternoon of June 18 in room 2102AB. 
