@@ -51,7 +51,7 @@ June 2 or 3 (depending on NetSci’s arrangement): Workshop
 * Liubov Tupikina, ITMO, Bell Labs, Paris Descartes LPI, France
 * Dongyi Wang, Centre for Science and Technology Studies, Leiden University, Netherlands
 
-**The Program Committee**
+**The Program Committee**  
 coming soon
 
 ![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66)
