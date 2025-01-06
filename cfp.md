@@ -25,7 +25,7 @@ _Option 2:_ An abstract. The file should be a PDF. We suggest 1 to 3 pages with 
 
 **Submission Portal**
 
-Enter your submission on EasyChair [https://easychair.org/my/conference?conf=netscisci2025](https://easychair.org/my/conference?conf=netscisci2025). The portal and any updates to CFP can be found on the workshop website: https://netscisci.github.io/cfp 
+Enter your submission on EasyChair [https://easychair.org/my/conference?conf=netscisci2025](https://easychair.org/my/conference?conf=netscisci2025). The portal and any updates to CFP can be found on the workshop website: [https://netscisci.github.io/cfp](https://netscisci.github.io/cfp)  
 
 **Important Dates**
 
