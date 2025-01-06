@@ -52,12 +52,7 @@ June 2 or 3 (depending on NetSci’s arrangement): Workshop
 * Dongyi Wang, Centre for Science and Technology Studies, Leiden University, Netherlands
 
 **The Program Committee**
-
-* Vincent Traag, Centre for Science and Technology Studies, Leiden University, Netherlands
-* Bart Thijs, KU Leuven, Belgium
-* Lucila Gisele Alvarez Zuzek, Bruno Kessler Foundation
-* Jian Du, Peking University, China
-* Charles Gomez, University of Arizona, USA
+coming soon
 
 ![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66)
 
