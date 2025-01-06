@@ -31,6 +31,15 @@ Her research focuses on learning from high-dimensional data supported on structu
 </div>
 </div>
 
+<div class='orgWrapper'>
+<img src="https://satyaki.net/assets/img/satyaki-2024-bw.png?99354ab98eebf8097912c4ac3bc23a48" alt="Satyaki Sikdar" width="150" />
+<div class='bioWrapper'>
+[**Satyaki Sikdar**](https://satyaki.net) is an Assistant Professor at the **Department of Computer Science at Loyola University Chicago**. Previously, he was a postdoc at Indiana University, and received his PhD in Computer Science from the University of Notre Dame in 2022.
+
+His research interest is understanding the fundamental mechanisms that drive complex, interconnected systems using tools at the confluence of AI, network science, and computational social science. His current research is focused on analyzing large-scale bibliometric data from scientific publications using generative models and embeddings. His work has been published in Nature Human Behaviour, IEEE Transactions on Knowledge and Data Engineering, and Scientific Reports.
+</div>
+</div>
+
 
 # Program Committee
 
