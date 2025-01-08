@@ -42,16 +42,8 @@ His research interest is understanding the fundamental mechanisms that drive com
 
 
 # Program Committee
-
-[Eamon Duede](https://eamonduede.com/) (Harvard University)
-
-[James Evans](https://macss.uchicago.edu/directory/James-Evans) (University of Chicago)
-
-[Jacob G. Foster](https://soc.ucla.edu/person/jacob-foster/) (UCLA)
-
-[Erin Leahey](https://sociology.arizona.edu/people/erin-leahey) (University of Arizona)
-
-[Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (University of Illinois Urbana-Champaign)
-
-[Jevin West](https://jevinwest.org/) (University of Washington)
+[Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm), Peking University  
+[Charles Gomez](https://sociology.arizona.edu/person/charles-gomez), University of Arizona  
+[Vincent Traag](https://www.traag.net), Leiden University
+[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ&hl=es), Bruno Kessler Foundation  
 
