@@ -55,7 +55,13 @@ We will conduct two rounds of submissions. If you want to take advantage of NetS
 [Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm), Peking University  
 [Charles Gomez](https://sociology.arizona.edu/person/charles-gomez), University of Arizona  
 [Vincent Traag](https://www.traag.net), Leiden University  
+[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
 [Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ&hl=es), Bruno Kessler Foundation  
+
+
+
+
+
 ![netsciLogo-blue2024](https://github.com/user-attachments/assets/375c6835-c4d4-4ce8-a665-dc51a968de66)
 
 <!--
