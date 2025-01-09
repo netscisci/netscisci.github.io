@@ -10,8 +10,6 @@ layout: default
 [**Yuanxi Fu**](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her area of research is argumentation in science with an emphasis on theoretical and conceptual innovations. 
 </div>
 </div>
-<br/>
-<br/>
 
 <div class='orgWrapper'>
  <img src="assets/images/profile_Sarah_Bratt.jpg" alt="Sarah Bratt" width="150" />
@@ -19,8 +17,6 @@ layout: default
 [**Dr. Sarah Bratt, PhD**](https://www.sarahbratt.com/) is an Assistant Professor at the **University of Arizona School of Information (iSchool)**. She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a Research Fellow at the Laboratory of Innovation Science at Harvard (LISH), a Teaching Fellow at the iSchool Inclusion Institute (i3), and has received several awards including the PhD prize in Information Science & Technology from Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow.   
 </div>
 </div>
-<br/>
-<br/>
 
 <div class='orgWrapper'>
 <img src="https://harlinlee.github.io/headshot-new.jpg" alt="Harlin Lee" width="150" />
@@ -37,6 +33,13 @@ Her research focuses on learning from high-dimensional data supported on structu
 [**Satyaki Sikdar**](https://satyaki.net) is an Assistant Professor at the **Department of Computer Science at Loyola University Chicago**. Previously, he was a postdoc at Indiana University, and received his PhD in Computer Science from the University of Notre Dame in 2022.
 
 His research interest is understanding the fundamental mechanisms that drive complex, interconnected systems using tools at the confluence of AI, network science, and computational social science. His current research is focused on analyzing large-scale bibliometric data from scientific publications using generative models and embeddings. His work has been published in Nature Human Behaviour, IEEE Transactions on Knowledge and Data Engineering, and Scientific Reports.
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img src="https://embedded-days.bunka.ai/team/liubov-tupikina.png" alt="Liubov Tupikina" width="150" />
+<div class='bioWrapper'>
+[**Liubov Tupikina**](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at Bell Labs, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
 </div>
 </div>
 
