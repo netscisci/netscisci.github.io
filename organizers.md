@@ -40,15 +40,6 @@ His research interest is understanding the fundamental mechanisms that drive com
 </div>
 </div>
 
-<div class='orgWrapper'>
-<img src="https://embedded-days.bunka.ai/team/liubov-tupikina.png" alt="Liubov Tupikina" width="150" />
-<div class='bioWrapper'>
-[**Liubov Tupikina**](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at Bell Labs, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
-</div>
-</div>
-<br/>
-<br/>
-
 # Program Committee
 [Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm), Peking University  
 [Charles Gomez](https://sociology.arizona.edu/person/charles-gomez), University of Arizona  
