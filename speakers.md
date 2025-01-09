@@ -3,8 +3,10 @@ layout: default
 ---
 
 # Speakers
-
-TBD 
+[Eun Lee](https://scholar-google-com.proxy2.library.illinois.edu/citations?user=kXggWVUAAAAJ&hl=en), Pukyong National University
+[Vincent Traag](https://www.traag.net), Leiden University  
+[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
+[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ&hl=es), Bruno Kessler Foundation
 
 <!--
 <div class='orgWrapper'>
