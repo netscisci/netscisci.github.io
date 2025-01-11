@@ -12,13 +12,6 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-<img src="" alt="Dongyi Wang" width="150" />
-<div class='bioWrapper'>
-[Dongyi Wang](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
-</div>
-</div>
-
-<div class='orgWrapper'>
  <img src="assets/images/profile_Sarah_Bratt.jpg" alt="Sarah Bratt" width="150" />
 <div class='bioWrapper'>
 [Dr. Sarah Bratt](https://www.sarahbratt.com/) is an Assistant Professor at the **University of Arizona School of Information (iSchool)**. She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a Research Fellow at the Laboratory of Innovation Science at Harvard (LISH), a Teaching Fellow at the iSchool Inclusion Institute (i3), and has received several awards including the PhD prize in Information Science & Technology from Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow.   
@@ -47,6 +40,13 @@ His research interest is understanding the fundamental mechanisms that drive com
 <img src="https://embedded-days.bunka.ai/team/liubov-tupikina.png" alt="Liubov Tupikina" width="150" />
 <div class='bioWrapper'>
 [Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at Bell Labs, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img src="assets/images/dONGYIWang.jpg" alt="Dongyi Wang" width="150" />
+<div class='bioWrapper'>
+[Dongyi Wang](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
 </div>
 </div>
 
