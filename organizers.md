@@ -12,6 +12,13 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
+<img src="" alt="Dongyi Wang" width="150" />
+<div class='bioWrapper'>
+[**Dongyi Wang **](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
+</div>
+</div>
+
+<div class='orgWrapper'>
  <img src="assets/images/profile_Sarah_Bratt.jpg" alt="Sarah Bratt" width="150" />
 <div class='bioWrapper'>
 [**Dr. Sarah Bratt, PhD**](https://www.sarahbratt.com/) is an Assistant Professor at the **University of Arizona School of Information (iSchool)**. She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a Research Fellow at the Laboratory of Innovation Science at Harvard (LISH), a Teaching Fellow at the iSchool Inclusion Institute (i3), and has received several awards including the PhD prize in Information Science & Technology from Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow.   
