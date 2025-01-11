@@ -14,7 +14,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="" alt="Dongyi Wang" width="150" />
 <div class='bioWrapper'>
-[**Dongyi Wang **](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
+[**Dongyi Wang**](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
 </div>
 </div>
 
