@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-This is the homepage for our [NetSci 2025](https://netsci2025.github.io/) workshop on 'Networks in Science of Science', which will be held in Maastricht, the Netherlands on June 2nd to 6th 2025.
+This is the homepage for our [NetSci 2025](https://netsci2025.github.io/) workshop on 'Networks in Science of Science', which will be held in Maastricht, the Netherlands on June 2nd, 2025.
 
 # Background
 
