@@ -39,14 +39,14 @@ His research interest is understanding the fundamental mechanisms that drive com
 <div class='orgWrapper'>
 <img src="https://embedded-days.bunka.ai/team/liubov-tupikina.png" alt="Liubov Tupikina" width="150" />
 <div class='bioWrapper'>
-[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at Bell Labs, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
+[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at **Bell Labs**, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
 </div>
 </div>
 
 <div class='orgWrapper'>
 <img src="assets/images/dONGYIWang.jpg" alt="Dongyi Wang" width="150" />
 <div class='bioWrapper'>
-[Dongyi Wang](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at Leiden University. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
+[Dongyi Wang](https://www.universiteitleiden.nl/en/staffmembers/dongyi-wang) is a PhD candidate in CWTS at **Leiden University**. He received his bachelor's(2021) and master's degrees(2023) in Information Management from Sun Yat-sen University. Wang’s research interests include quantitative science studies as well as science communication with a focus on science communication among occupations. 
 </div>
 </div>
 
