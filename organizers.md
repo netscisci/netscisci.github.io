@@ -39,7 +39,7 @@ His research interest is understanding the fundamental mechanisms that drive com
 <div class='orgWrapper'>
 <img src="https://embedded-days.bunka.ai/team/liubov-tupikina.png" alt="Liubov Tupikina" width="150" />
 <div class='bioWrapper'>
-[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/home) Dr. Liubov Tupikina, a research scientist at **Bell Labs**, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
+[Dr. Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/home) is a research scientist at **Bell Labs**, combines expertise in mathematics and theoretical physics to study network dynamics, time series analysis, and AI. Following her PhD from Humboldt University of Berlin and research positions across European and South American universities, she now focuses on network robustness, stochastic processes, and embedding techniques. As a principal organizer of Embed-Days and leader of its mathematics track, she champions mathematical excellence in the field. Her current work spans from survivability theory to applications of collective intelligence in responsible AI development. 
 </div>
 </div>
 
@@ -53,7 +53,15 @@ His research interest is understanding the fundamental mechanisms that drive com
 <div class='orgWrapper'>
 <img src="assets/images/akrati.JPG" alt="Akrati Saxena" width="150" />
 <div class='bioWrapper'>
-[Akrati Saxena](https://www.akratisaxena.com/) Akrati Saxena is an Assistant Professor at the **Computer Science and AI department of the Faculty of Science at Leiden University**. Her research interests include Social Network Analysis, Complex Networks, Computational Social Science, Data Science, and Fairness. Her current research is focused on understanding inequalities in complex networks and algorithmic fairness in network and data science. She is interested in understanding and modeling the impact of affirmative actions and international policies on the collaboration network.
+[Akrati Saxena](https://www.akratisaxena.com/) is an Assistant Professor at the **Computer Science and AI department of the Faculty of Science at Leiden University**. Her research interests include Social Network Analysis, Complex Networks, Computational Social Science, Data Science, and Fairness. Her current research is focused on understanding inequalities in complex networks and algorithmic fairness in network and data science. She is interested in understanding and modeling the impact of affirmative actions and international policies on the collaboration network.
+</div>
+</div>
+
+
+<div class='orgWrapper'>
+<img src="assets/images/eun.jpg" alt="Eun Lee" width="150" />
+<div class='bioWrapper'>
+[Dr. Eun Lee](https://scholar.google.com/citations?user=kXggWVUAAAAJ) is an Assistant Professor at **Pukyong National University in the Department of Scientific Computing**. She earned her Ph.D. from Sungkyunkwan University in 2018, focusing on network theory approaches to social contagion and perception bias. Her postdoctoral work included positions at the University of Colorado Boulder and the University of North Carolina-Chapel Hill, where she collaborated with prominent scholars in network science and social dynamics. Dr. Lee's research interests span network theory, social contagion, and structural inequalities, as reflected in her numerous publications in high-impact journals. She has received multiple accolades, including the Young Researcher Prize from the Korean Physical Society, and actively contributes to the academic community through peer reviews and organizing conferences in her field.
 </div>
 </div>
 
