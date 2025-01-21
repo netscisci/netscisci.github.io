@@ -53,7 +53,7 @@ His research interest is understanding the fundamental mechanisms that drive com
 <div class='orgWrapper'>
 <img src="assets/images/akrati.JPG" alt="Akrati Saxena" width="150" />
 <div class='bioWrapper'>
-[Akrati Saxena](https://www.akratisaxena.com/) is an Assistant Professor at the **Computer Science and AI department of the Faculty of Science at Leiden University**. Her research interests include Social Network Analysis, Complex Networks, Computational Social Science, Data Science, and Fairness. Her current research is focused on understanding inequalities in complex networks and algorithmic fairness in network and data science. She is interested in understanding and modeling the impact of affirmative actions and international policies on the collaboration network.
+[Dr. Akrati Saxena](https://www.akratisaxena.com/) is an Assistant Professor at the **Computer Science and AI department of the Faculty of Science at Leiden University**. Her research interests include Social Network Analysis, Complex Networks, Computational Social Science, Data Science, and Fairness. Her current research is focused on understanding inequalities in complex networks and algorithmic fairness in network and data science. She is interested in understanding and modeling the impact of affirmative actions and international policies on the collaboration network.
 </div>
 </div>
 
