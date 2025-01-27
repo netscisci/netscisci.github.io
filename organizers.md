@@ -64,6 +64,13 @@ His research interest is understanding the fundamental mechanisms that drive com
 </div>
 </div>
 
+<div class='orgWrapper'>
+<img src="assets/images/juan pablo.jpg" alt="Juan Pablo Bascur" width="150" />
+<div class='bioWrapper'>
+[Juan Pablo Bascur](https://www.cwts.nl/people/juan-pablo-bascur-cifuentes) is a PhD candidate in Scientometrics at the **Centre for Science and Technology Studies at Leiden University**. He received his BSc/MSc in biochemistry (2016) at the Andrés Bello National University. His area of research is improving the use of science maps for knowledge discovery and information retrieval.
+</div>
+</div>
+
 # Program Committee
 [Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm), Peking University  
 [Charles Gomez](https://sociology.arizona.edu/person/charles-gomez), University of Arizona  
