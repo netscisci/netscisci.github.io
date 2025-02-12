@@ -3,10 +3,6 @@ layout: default
 ---
 
 # Speakers
-[Eun Lee](https://scholar.google.com/citations?user=kXggWVUAAAAJ), Pukyong National University  
-[Vincent Traag](https://www.traag.net), Leiden University  
-[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
-[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ), Bruno Kessler Foundation
 
 
 <div class='orgWrapper'>
@@ -19,6 +15,11 @@ layout: default
 </div>
 <br/>
 <br/>
+
+[Eun Lee](https://scholar.google.com/citations?user=kXggWVUAAAAJ), Pukyong National University  
+[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
+[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ), Bruno Kessler Foundation
+
 
 <!--
 <div class='orgWrapper'>
