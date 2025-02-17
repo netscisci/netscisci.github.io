@@ -35,8 +35,8 @@ We will conduct two rounds of submissions. If you want to take advantage of NetS
 **February 7**: Round 1 deadline  
 **February 21**: Round 1 acceptance notice  
 **February 24**: Deadline for early bird registration rate (-€100 from the regular rate, [https://netsci2025.github.io/registration/](https://netsci2025.github.io/registration/))   
-**March 15**: Round 2 deadline (contingent on the number of accepted papers from Round 1)  
-**March 29**: Round 2 acceptance notice  
+~~**March 15**: Round 2 deadline~~ (no round 2)  
+~~**March 29**: Round 2 acceptance notice~~ (no round 2)  
 **June 2** (depending on NetSci’s arrangement): workshop  
 
 **The Organizing Committee**
