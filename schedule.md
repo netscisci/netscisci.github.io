@@ -22,7 +22,7 @@ layout: default
 | 3:00 pm - 3:20 pm   | Contributed talk 4 |
 | 3:20 pm - 3:40 pm   | Contributed talk 5 |
 | 3:40 pm - 4:10 pm   | Coffee break |
-| 4:10 pm - 4:40 pm   | Lightning talks (5 minutes each) |
+| 4:10 pm - 4:40 pm   | Lightning talks |
 | 4:40 pm - 5:00 pm   | Concluding remarks |
 
 Please refer to the [NetSci 2025 program](https://netsci2025.github.io/) for the full conference schedule. 
