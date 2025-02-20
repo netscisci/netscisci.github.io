@@ -91,3 +91,7 @@ abstract {
 .site-footer-credits{
     font-size: 0.8rem;
 }
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2; /* Light gray for even rows */
+}
