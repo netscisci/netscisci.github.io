@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Schedule
-Tentative Schedule (subject to change)
+
+- Morning: 4 invited talks (25 minutes talk + 5 minuts Q&A)
+- Afternoon: 5 contributed talks (15 minutes talk + 5 minuts Q&A), 6 lightning talks (5 minutes talk)
 
 | Time      | Speakers |
 |:----------- |:----------- |
