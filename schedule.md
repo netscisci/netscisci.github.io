@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-- Morning: 4 invited talks (25 minutes talk + 5 minutes Q&A)
+- Morning: Opening remarks and 4 invited talks (25 minutes talk + 5 minutes Q&A)
 - Afternoon: 5 contributed talks (15 minutes talk + 5 minutes Q&A), 6 lightning talks (5 minutes talk)
 
 | Time      | Speakers |
