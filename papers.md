@@ -4,13 +4,28 @@ layout: default
 
 # Accepted Papers
 
-TBD 
+## Contributed talks
 
-<!--
-[**Exploring International Collaboration Dynamics through Multilayer Network Analysis**](https://netscisci.github.io/assets/papers/1_exploring_international_collab.pdf) by Pei-Ying Chen and Tzu-Kun Hsiao
+[**Causal Claims in Economics**]() by Prashant Garg and Thiemo Fetzer
 
-[**All-Female Teams Produce More Disruptive Work: Evidence from Scientific Papers**](https://netscisci.github.io/assets/papers/2_all_female_teams_produce_more_.pdf) by Nandini Banerjee and Diego Gomez-Zara
+[**Limits to Gender Equity in Science Communication**]() by Ana Macanovic and Bas Hofstra
 
-[**Dissecting Knowledge Landscape Embeddings**](https://netscisci.github.io/assets/papers/4_dissecting_knowledge_landscape.pdf) by Liubov Tupikina, Marc Santolini and Hkritika Kathuria
+[**Dynamics of technology emergence in innovation networks**]() by Martin Ho, Henry Price, Tim Evans and Eoin O'Sullivan
 
-[**A Block-corrected Modularity Approach for Community Detection in Scientific Citation Networks**](https://netscisci.github.io/assets/papers/5_a_block_corrected_modularity_a.pdf) by Hasti Narimanzadeh, Takayuki Hiraoka, Mikko Kivelä **(Best Student Paper Award)** -->
+[**The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky**]() by Dorian Quelle, Frederic Denker, Prashant Garg and Alexandre Bovet
+
+[**From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring**]() by Yasaman Asgari, Hongyu Zhou, Ozgur Kadir Ozer, Rezvaneh Rezapour, Mary Ellen Sloane and Alexandre Bovet
+
+## Lightning talks
+
+[**Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?**]() by Daniela Aguirre-Guerrero, Marcos Ehekatzin García Guzmán, Aurora A. Ramírez-Álvarez and Diana Terrazas-Santamaría
+
+[**Exploring Gender's Impact on Co-authorship and Citation Networks in Cancer Research**]() by Ria Timm
+
+[**Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research**]() by Mark Wittek, Tianyu Du, Daniel McFarland and Raphael Heiberger
+
+[**Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature**]() by Jinyu Gao, Yi Bu and Sarah Bratt
+
+[**Emergence of group size disparity in growing networks with adoption**]() by Jun Sun and Fariba Karimi
+
+[**Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society**]() by Katy Börner, Elizabeth Record and Todd Theriault
