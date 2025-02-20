@@ -6,7 +6,7 @@ layout: default
 Tentative Schedule (subject to change)
 
 | Time      | Speakers |
-| ----------- | ----------- |
+|:----------- |:----------- |
 | 9:00 am - 9:30 am | Kick-off and opening remarks |
 | 9:30 am - 10:00 am   | Invited talk 1 |
 | 10:00 am - 10:30 am   | Invited talk 2 |
