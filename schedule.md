@@ -5,7 +5,7 @@ layout: default
 # Schedule
 - Location: **University of Maastricht** (exact location will be announced later)
 - Morning: Opening remarks and 4 invited talks (25 minutes talk + 5 minutes Q&A)
-- Networking lunch: 1 hour network lunch (go-Dutch style) to bound the participants
+- Networking lunch: 1 hour network lunch (go-Dutch) to bound the participants
 - Afternoon: 5 contributed talks (15 minutes talk + 5 minutes Q&A), 6 lightning talks (5 minutes talk)
 
 | Time      | Speakers |
