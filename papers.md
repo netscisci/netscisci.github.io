@@ -6,7 +6,7 @@ layout: default
 
 ## Contributed talks
 
-[**Causal Claims in Economics**]() by Prashant Garg and Thiemo Fetzer
+[**Causal Claims in Economics**](https://arxiv.org/abs/2501.06873) by Prashant Garg and Thiemo Fetzer
 
 [**Limits to Gender Equity in Science Communication**]() by Ana Macanovic and Bas Hofstra
 
