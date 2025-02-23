@@ -10,7 +10,7 @@ layout: default
 
 [**Limits to Gender Equity in Science Communication**]() by Ana Macanovic and Bas Hofstra
 
-[**Dynamics of technology emergence in innovation networks**]() by Martin Ho, Henry Price, Tim Evans and Eoin O'Sullivan
+[**Dynamics of technology emergence in innovation networks**](https://www.nature.com/articles/s41598-023-50280-4) by Martin Ho, Henry Price, Tim Evans and Eoin O'Sullivan
 
 [**The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky**]() by Dorian Quelle, Frederic Denker, Prashant Garg and Alexandre Bovet
 
