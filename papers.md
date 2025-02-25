@@ -26,6 +26,6 @@ layout: default
 
 [**Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature**]() by Jinyu Gao, Yi Bu and Sarah Bratt
 
-[**Emergence of group size disparity in growing networks with adoption**]() by Jun Sun and Fariba Karimi
+[**Emergence of group size disparity in growing networks with adoption**](https://doi.org/10.1038/s42005-024-01799-z) by Jun Sun and Fariba Karimi
 
 [**Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society**]() by Katy Börner, Elizabeth Record and Todd Theriault
