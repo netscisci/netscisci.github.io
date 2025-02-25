@@ -20,7 +20,7 @@ layout: default
 | 1:00 pm - 2:00 pm   | Break |
 | 2:00 pm - 2:20 pm   | Yasaman Asgari (student paper) |
 | 2:20 pm - 2:40 pm   | Prashant Garg (student paper) |
-| 2:40 pm - 3:00 pm   | Contributed talk 3 |
+| 2:40 pm - 3:00 pm   | Jun Sun |
 | 3:00 pm - 3:20 pm   | Contributed talk 4 |
 | 3:20 pm - 3:40 pm   | Contributed talk 5 |
 | 3:40 pm - 4:10 pm   | Coffee break |
