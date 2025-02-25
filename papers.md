@@ -20,7 +20,7 @@ layout: default
 
 [**Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?**]() by Daniela Aguirre-Guerrero, Marcos Ehekatzin García Guzmán, Aurora A. Ramírez-Álvarez and Diana Terrazas-Santamaría
 
-[**Exploring Gender's Impact on Co-authorship and Citation Networks in Cancer Research**]() by Ria Timm
+[**Exploring Gender's Impact on Co-authorship and Citation Networks in Cancer Research**](https://github.com/netscisci/netscisci.github.io/blob/main/assets/papers/NetSciSci2025_paper_8.pdf) by Ria Timm
 
 [**Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research**]() by Mark Wittek, Tianyu Du, Daniel McFarland and Raphael Heiberger
 
