@@ -20,11 +20,12 @@ layout: default
 | 1:00 pm - 2:00 pm   | Break |
 | 2:00 pm - 2:20 pm   | Yasaman Asgari (student paper) |
 | 2:20 pm - 2:40 pm   | Prashant Garg (student paper) |
-| 2:40 pm - 3:00 pm   | Jun Sun |
+| 2:40 pm - 3:00 pm   | Henry Price (student paper) |
 | 3:00 pm - 3:20 pm   | Contributed talk 4 |
 | 3:20 pm - 3:40 pm   | Contributed talk 5 |
 | 3:40 pm - 4:10 pm   | Coffee break |
-| 4:10 pm - 4:40 pm   | Lightning talks |
+| 4:10 pm - 4:15 pm   | Ria Timm (student paper) |
+| 4:15 pm - 4:20 pm   | Jun Sun |	
 | 4:40 pm - 5:00 pm   | Concluding remarks |
 
 Please refer to the [NetSci 2025 program](https://netsci2025.github.io/) for the full conference schedule. 
