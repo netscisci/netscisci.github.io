@@ -19,7 +19,7 @@ layout: default
 | 12:00 pm - 2:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
 | 2:00 pm - 2:20 pm   | Yasaman Asgari (student paper) |From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring|
-| 2:20 pm - 2:40 pm   | Prashant Garg (student paper) |Causal Claims in Economics|
+| 2:20 pm - 2:40 pm   | Prashant Garg (student paper) |[Causal Claims in Economics](https://arxiv.org/abs/2501.06873)|
 | 2:40 pm - 3:00 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
 | 3:00 pm - 3:20 pm   | Contributed talk 4 ||
 | 3:20 pm - 3:40 pm   | Contributed talk 5 ||
