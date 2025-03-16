@@ -27,6 +27,7 @@ layout: default
 | 4:10 pm - 4:15 pm   | Ria Timm (student paper) |Exploring Gender’s Impact on Co-authorship and Citation Networks in Cancer Research|
 | 4:15 pm - 4:20 pm   | Jun Sun |Emergence of group size disparity in growing networks with adoption|
 | 4:20 pm - 4:25 pm   | Mark Wittek |Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research| 
+| 4:25 pm - 4:30 pm   | Katy Börner |Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society| 
 | 4:40 pm - 5:00 pm   | Concluding remarks ||
 
 Please refer to the [NetSci 2025 program](https://netsci2025.github.io/) for the full conference schedule. 
