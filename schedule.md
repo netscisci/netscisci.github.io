@@ -15,7 +15,7 @@ layout: default
 | 10:00 am - 10:30 am  | Invited talk 2 |TBA|
 | 10:30 am - 11:00 am  | Coffee break ||
 | 11:00 am - 11:30 am  | Invited talk 3 |TBA|
-| 11:30 am - 11:50 pm  | Contributed talk 1 |TBA|
+| 11:30 am - 12:00 pm  | TBD |TBA|
 | 12:00 pm - 2:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
 | 2:00 am - 2:20 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
