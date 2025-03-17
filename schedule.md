@@ -15,14 +15,14 @@ layout: default
 | 10:00 am - 10:30 am  | Invited talk 2 |TBA|
 | 10:30 am - 11:00 am  | Coffee break ||
 | 11:00 am - 11:30 am  | Invited talk 3 |TBA|
-| 11:30 am - 11:50 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
+| 11:30 am - 11:50 pm  | Contributed talk 1 |TBA|
 | 12:00 pm - 2:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
-| 2:00 pm - 2:20 pm   | Yasaman Asgari (student paper) |From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring|
-| 2:20 pm - 2:40 pm   | Prashant Garg (student paper) |[Causal Claims in Economics](https://arxiv.org/abs/2501.06873)|
-| 2:40 pm - 3:00 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
-| 3:00 pm - 3:20 pm   | Contributed talk 4 ||
-| 3:20 pm - 3:40 pm   | Contributed talk 5 ||
+| 2:00 am - 2:20 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
+| 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring|
+| 2:40 pm - 3:00 pm   | Prashant Garg (student paper) |[Causal Claims in Economics](https://arxiv.org/abs/2501.06873)|
+| 3:00 pm - 3:20 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
+| 3:20 pm - 3:40 pm   | Contributed talk ||
 | 3:40 pm - 4:10 pm   | Coffee break ||
 | 4:10 pm - 4:15 pm   | Ria Timm (student paper) |Exploring Gender’s Impact on Co-authorship and Citation Networks in Cancer Research|
 | 4:15 pm - 4:20 pm   | Mark Wittek |Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research| 
