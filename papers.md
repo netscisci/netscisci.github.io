@@ -24,7 +24,7 @@ layout: default
 
 [**Exploring Gender's Impact on Co-authorship and Citation Networks in Cancer Research**](https://github.com/netscisci/netscisci.github.io/blob/main/assets/papers/NetSciSci2025_paper_8.pdf) by Ria Timm
 
-[**Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research**]() by Mark Wittek, Tianyu Du, Daniel McFarland and Raphael Heiberger
+**Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research** by Mark Wittek, Tianyu Du, Daniel McFarland and Raphael Heiberger
 
 [**Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature**]() by Jinyu Gao, Yi Bu and Sarah Bratt
 
