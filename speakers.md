@@ -14,7 +14,7 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-  <img src="https://www.traag.net/wp/wp-content/uploads/2025/02/original.png" alt="Ana Maria Jaramillo" width="150" />
+  <img src="https://github.com/netscisci/netscisci.github.io/blob/main/assets/images/ana_maria_jaramillo.jpeg" alt="Ana Maria Jaramillo" width="150" />
 <div class='bioWrapper'>
   **Invited Talk**
 [**Dr. Ana Maria Jaramillo**](https://scholar.google.com/citations?user=xSZwPHAAAAAJ&hl=en) Ana (she/her) has been a postdoctoral research fellow at the Complexity Science Hub in Vienna and TÜ Graz in Austria working for the project on Multi-attribute, Multimodal Bias Mitigation in AI Systems (MAMMOth) specifically on fairness metrics for citation rankings. 
