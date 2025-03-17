@@ -12,9 +12,9 @@ layout: default
 |:----------- |:----------- |:----------- |
 | 9:00 am - 9:30 am | Vincent Traag |Opening remarks|
 | 9:30 am - 10:00 am   | Ana Maria Jaramillo |The persistent underrepresentation of minority groups in Academia: a systematic analysis of the scientific rankings rigidity and core/periphery structure in scientific networks|
-| 10:00 am - 10:30 am  | Invited talk 2 |TBA|
+| 10:00 am - 10:30 am  | TBD |TBA|
 | 10:30 am - 11:00 am  | Coffee break ||
-| 11:00 am - 11:30 am  | Invited talk 3 |TBA|
+| 11:00 am - 11:30 am  | TBD |TBA|
 | 11:30 am - 12:00 pm  | TBD |TBA|
 | 12:00 pm - 2:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
