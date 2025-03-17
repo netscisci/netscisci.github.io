@@ -11,7 +11,7 @@ layout: default
 | Time      | Speakers | Title |
 |:----------- |:----------- |:----------- |
 | 9:00 am - 9:30 am | Kick-off and opening remarks: Vincent Traag |TBD|
-| 9:30 am - 10:00 am   | Invited talk 1 |TBA|
+| 9:30 am - 10:00 am   | Ana Maria Jaramillo |The persistent underrepresentation of minority groups in Academia: a systematic analysis of the scientific rankings rigidity and core/periphery structure in scientific networks|
 | 10:00 am - 10:30 am  | Invited talk 2 |TBA|
 | 10:30 am - 11:00 am  | Coffee break ||
 | 11:00 am - 11:30 am  | Invited talk 3 |TBA|
@@ -22,9 +22,9 @@ layout: default
 | 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring|
 | 2:40 pm - 3:00 pm   | Prashant Garg (student paper) |[Causal Claims in Economics](https://arxiv.org/abs/2501.06873)|
 | 3:00 pm - 3:20 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
-| 3:20 pm - 3:40 pm   | Contributed talk ||
+| 3:20 pm - 3:40 pm   | Dorian Quelle (student paper) |The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky|
 | 3:40 pm - 4:10 pm   | Coffee break ||
-| 4:10 pm - 4:15 pm   | Ria Timm (student paper) |Exploring Gender’s Impact on Co-authorship and Citation Networks in Cancer Research|
+| 4:10 pm - 4:15 pm   | Ria Timm (student paper) |[Exploring Gender’s Impact on Co-authorship and Citation Networks in Cancer Research](https://github.com/netscisci/netscisci.github.io/blob/main/assets/papers/NetSciSci2025_paper_8.pdf)|
 | 4:15 pm - 4:20 pm   | Mark Wittek |Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research| 
 | 4:20 pm - 4:25 pm   | Katy Börner |Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society| 
 | 4:40 pm - 5:00 pm   | Concluding remarks ||
