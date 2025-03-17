@@ -8,7 +8,7 @@ layout: default
 
 [**Causal Claims in Economics**](https://arxiv.org/abs/2501.06873) by Prashant Garg and Thiemo Fetzer
 
-[**Limits to Gender Equity in Science Communication**]() by Ana Macanovic and Bas Hofstra
+**Limits to Gender Equity in Science Communication** by Ana Macanovic and Bas Hofstra
 
 [**Dynamics of technology emergence in innovation networks**](https://www.nature.com/articles/s41598-023-50280-4) by Martin Ho, Henry Price, Tim Evans and Eoin O'Sullivan
 
