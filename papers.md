@@ -14,7 +14,7 @@ layout: default
 
 **The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky** by Dorian Quelle, Frederic Denker, Prashant Garg and Alexandre Bovet
 
-[**From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring**]() by Yasaman Asgari, Hongyu Zhou, Ozgur Kadir Ozer, Rezvaneh Rezapour, Mary Ellen Sloane and Alexandre Bovet
+**From Revolution to Research: Interplay Between Funding, Migration, and Scholarly Attention post-Arab Spring** by Yasaman Asgari, Hongyu Zhou, Ozgur Kadir Ozer, Rezvaneh Rezapour, Mary Ellen Sloane and Alexandre Bovet
 
 [**Emergence of group size disparity in growing networks with adoption**](https://doi.org/10.1038/s42005-024-01799-z) by Jun Sun and Fariba Karimi
 
