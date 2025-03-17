@@ -17,7 +17,7 @@ layout: default
   <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=xSZwPHAAAAAJ&citpid=1" alt="Ana Maria Jaramillo" width="150" />
 <div class='bioWrapper'>
   **Invited Talk**
-[**Dr. Ana Maria Jaramillo**](https://scholar.google.com/citations?user=xSZwPHAAAAAJ&hl=en) Ana (she/her) has been a postdoctoral research fellow at the Complexity Science Hub in Vienna and TÜ Graz in Austria working for the project on Multi-attribute, Multimodal Bias Mitigation in AI Systems (MAMMOth) specifically on fairness metrics for citation rankings. 
+[**Dr. Ana Maria Jaramillo**](https://scholar.google.com/citations?user=xSZwPHAAAAAJ&hl=en) (she/her) has been a postdoctoral research fellow at the Complexity Science Hub in Vienna and TÜ Graz in Austria working for the project on Multi-attribute, Multimodal Bias Mitigation in AI Systems (MAMMOth) specifically on fairness metrics for citation rankings. 
 
 Ana finished here PhD in Computer Science at the University of Exeter. During her doctoral training she studied the effect of segregation and socio-demographic diversity on scientific impact in Computer Science, applying sociology of science theories with computer science methodologies. Ana’s research focuses on applying the complex systems paradigm to the science of science, education, and public health. She is interested in developing models to study social behaviours using complex systems, especially network science analysis, and inform data-driven interventions. The ultimate goal of her research is to create support, academic, and caring networks that help the knighting towards cognitive justice and democratisation of knowledge.
 
