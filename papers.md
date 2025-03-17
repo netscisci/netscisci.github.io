@@ -26,6 +26,6 @@ layout: default
 
 **Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research** by Mark Wittek, Tianyu Du, Daniel McFarland and Raphael Heiberger
 
-[**Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature**]() by Jinyu Gao, Yi Bu and Sarah Bratt
+**Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature** by Jinyu Gao, Yi Bu and Sarah Bratt
 
-[**Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society**]() by Katy Börner, Elizabeth Record and Todd Theriault
+**Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society** by Katy Börner, Elizabeth Record and Todd Theriault
