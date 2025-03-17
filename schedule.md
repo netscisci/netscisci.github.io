@@ -25,8 +25,9 @@ layout: default
 | 3:20 pm - 3:40 pm   | Dorian Quelle (student paper) |The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky|
 | 3:40 pm - 4:10 pm   | Coffee break ||
 | 4:10 pm - 4:15 pm   | Ria Timm (student paper) |[Exploring Gender’s Impact on Co-authorship and Citation Networks in Cancer Research](https://github.com/netscisci/netscisci.github.io/blob/main/assets/papers/NetSciSci2025_paper_8.pdf)|
-| 4:15 pm - 4:20 pm   | Mark Wittek |Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research| 
-| 4:20 pm - 4:25 pm   | Katy Börner |Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society| 
+| 4:15 pm - 4:20 pm   | Jinyu Gao (student paper) |Distinguishing Types of Scientific Innovation Capacity: Exploring the Patterns and Dynamics of Knowledge Combinations and Impacts on Innovation in Biomedical Literature| 
+| 4:20 pm - 4:25 pm   | Mark Wittek |Balancing Conventionality and Unconventionality Elevates Scientific Impact in Biomedical Research| 
+| 4:25 pm - 4:30 pm   | Katy Börner |Science Macroscopes: Interactive Data Visualizations for Exploring Multiscale Networks in a Global Society| 
 | 4:40 pm - 5:00 pm   | Concluding remarks ||
 
 Please refer to the [NetSci 2025 program](https://netsci2025.github.io/) for the full conference schedule. 
