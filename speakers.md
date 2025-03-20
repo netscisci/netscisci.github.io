@@ -25,6 +25,16 @@ Talk title: “The persistent underrepresentation of minority groups in Academia
 </div>
 </div>
 
+<div class='orgWrapper'>
+  <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=CgrQ6asAAAAJ&citpid=15" alt="Lucila Alvarez Zuzek" width="150" />
+<div class='bioWrapper'>
+  **Invited Talk**
+[**Dr. Lucila Alvarez Zuzek**](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ&hl=en) is a Postdoctoral Researcher at Fondazione Bruno Kessler, Trento, Italy. As an interdisciplinary physicist, she is interested in complex systems science, with a focus on human social behavior at the intersection of decision-making, disease spread, and online misinformation. She holds a PhD in Physics from Universidad Nacional de Mar del Plata (Argentina), where she studied dynamical processes on multilayer networks. She later conducted a postdoctoral research at Bansal Lab in Washington, DC (USA), we she explored the social mechanisms driving vaccine hesitancy and its impact on spatial under-vaccination. Currently, she is studying the intersection between misinformation and science in societal debates during the COVID-19 pandemic.
+
+Talk title: TBA
+</div>
+</div>
+
 [Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
 [Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ), Bruno Kessler Foundation  
 
