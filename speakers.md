@@ -35,6 +35,5 @@ Talk title: TBA
 </div>
 </div>
 
-[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven  
-[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ), Bruno Kessler Foundation  
+[Bart Thijs](https://www.kuleuven.be/wieiswie/en/person/00040232), KU Leuven
 
