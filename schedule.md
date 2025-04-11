@@ -10,12 +10,11 @@ layout: default
 
 | Time      | Speakers | Title |
 |:----------- |:----------- |:----------- |
-| 9:00 am - 9:30 am | Vincent Traag |Opening remarks|
-| 9:30 am - 10:00 am   | Ana Maria Jaramillo |The persistent underrepresentation of minority groups in Academia: a systematic analysis of the scientific rankings rigidity and core/periphery structure in scientific networks|
-| 10:00 am - 10:30 am  | Lucila Alvarez Zuzek |Understanding the interplay between science and misinformation in societal debates during the COVID-19 era|
+| 9:30 am - 10:00 am   | Vincent Traag |Opening remarks|
+| 10:00 am - 10:30 am  | Ana Maria Jaramillo |The persistent underrepresentation of minority groups in Academia: a systematic analysis of the scientific rankings rigidity and core/periphery structure in scientific networks|
 | 10:30 am - 11:00 am  | Coffee break ||
-| 11:00 am - 11:30 am  | Bas Hofstra |Limits to gender equity in science communication|
-| 11:30 am - 11:50 pm  | TBD |TBA|
+| 11:00 am - 11:30 am  | Lucila Alvarez Zuzek |Understanding the interplay between science and misinformation in societal debates during the COVID-19 era|
+| 11:30 am - 11:50 pm  |Bas Hofstra |Limits to gender equity in science communication|
 | 12:00 pm - 2:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
 | 2:00 am - 2:20 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
