@@ -15,7 +15,7 @@ layout: default
 | 10:30 am - 11:00 am  | Coffee break ||
 | 11:00 am - 11:30 am  | Lucila Alvarez Zuzek |Understanding the interplay between science and misinformation in societal debates during the COVID-19 era|
 | 11:30 am - 11:50 pm  |Bas Hofstra |Limits to gender equity in science communication|
-| 12:00 pm - 2:00 pm   | Networking lunch ||
+| 12:00 pm - 1:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
 | 2:00 am - 2:20 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
 | 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |From revolution to research: Interplay between funding, migration, and scholarly attention post-Arab Spring|
