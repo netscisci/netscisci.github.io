@@ -18,7 +18,7 @@ layout: default
 | 12:00 pm - 1:00 pm   | Networking lunch ||
 | 1:00 pm - 2:00 pm   | Break ||
 | 2:00 am - 2:20 pm  | Jun Sun |[Emergence of group size disparity in growing networks with adoption](https://doi.org/10.1038/s42005-024-01799-z)|
-| 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |From revolution to research: Interplay between funding, migration, and scholarly attention post-Arab Spring|
+| 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |[The Arab Spring’s Impact on Science through the Lens of Scholarly Attention, Funding, and Migration](https://arxiv.org/pdf/2503.13238)|
 | 2:40 pm - 3:00 pm   | Prashant Garg (student paper) |[Causal Claims in Economics](https://arxiv.org/abs/2501.06873)|
 | 3:00 pm - 3:20 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
 | 3:20 pm - 3:40 pm   | Dorian Quelle (student paper) |The Twitter/X-odus: Quantifying the forces behind the academic platform migration to Bluesky|
