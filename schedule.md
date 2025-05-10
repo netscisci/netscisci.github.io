@@ -5,7 +5,7 @@ layout: default
 # Schedule
 - Location: **University of Maastricht** FPN Aken zaal, Universiteitssingel 40 [Google Map](https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9)
 - Morning: Opening remarks and 4 invited talks (25 minutes talk + 5 minutes Q&A)
-- Networking lunch: 1 hour "going-Dutch" network lunch to bond the participants. [**RSVP here**](). And we will email you about the location. 
+- Networking lunch: 1 hour "going-Dutch" network lunch to bond the participants. [**RSVP here**](https://forms.gle/Ci42DLnpA67QTXcJA). And we will email you about the location. 
 - Afternoon: 5 contributed talks (15 minutes talk + 5 minutes Q&A), 6 lightning talks (5 minutes talk)
 - Best Student Paper award [vote here](https://tinyurl.com/netscisci2025)
 
