@@ -22,7 +22,7 @@ layout: default
 | 2:20 pm - 2:40 pm   | Yasaman Asgari (student paper) |The Arab Spring’s Impact on Science through the Lens of Scholarly Attention, Funding, and Migration [paper link](https://arxiv.org/pdf/2503.13238)|
 | 2:40 pm - 3:00 pm   | Prashant Garg (student paper) |Causal Claims in Economics [paper link](https://arxiv.org/abs/2501.06873)|
 | 3:00 pm - 3:20 pm   | Henry Price (student paper) |Dynamics of technology emergence in innovation networks|
-| 3:20 pm - 3:40 pm   | Dorian Quelle (student paper) |Why Academics Are Leaving Twitter for Bluesky [paper link](https://arxiv.org/pdf/2505.24801)|
+| 3:20 pm - 3:40 pm   | Dorian Quelle (student paper) |Why Academics Are Leaving Twitter for Bluesky [paper link](https://arxiv.org/pdf/2505.24801) 🏆 Best student paper award|
 | 3:40 pm - 3:45 pm   | Ria Timm (student paper) |Exploring gender’s impact on co-authorship networks in cancer research [paper link](https://github.com/netscisci/netscisci.github.io/blob/main/assets/papers/NetSciSci2025_paper_8.pdf)|
 | 3:45 pm - 3:50 pm   | Jinyu Gao (student paper) |Distinguishing types of scientific innovation capacity: exploring the patterns and dynamics of knowledge combinations and impacts on innovation in biomedical literature| 
 | 3:50 pm - 3:55 pm   | Mark Wittek |Balancing conventionality and unconventionality elevates scientific impact in biomedical research| 
