@@ -32,9 +32,3 @@ layout: default
 </div>
 </div>
 
-# Program Committee
-[Jian Du](https://www.nihds.pku.edu.cn/en/info/1027/1024.htm), Peking University  
-[Charles Gomez](https://sociology.arizona.edu/person/charles-gomez), University of Arizona  
-[Vincent Traag](https://www.traag.net), Leiden University  
-[Lucila Gisele Alvarez Zuzek](https://scholar.google.com.ar/citations?user=CgrQ6asAAAAJ&hl=es), Bruno Kessler Foundation  
-
