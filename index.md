@@ -23,12 +23,10 @@ Enter your submission on EasyChair [https://easychair.org/my/conference?conf=net
 
 # History
 ## Previous Editions of NetSciSci
-[3rd NetSciSci, Maastricht, the Netherlands, 2025](https://netscisci.github.io/2025/)
-
-[2nd NetSciSci, Quebec City, Canada, 2024](https://netscisci.github.io/2024/)
-
-[1st NetSciSci, Vienna, Austria, 2023](https://netscisci.github.io/2023/)
+[3rd NetSciSci, Maastricht, the Netherlands, 2025](https://netscisci.github.io/2025/). 
+[2nd NetSciSci, Quebec City, Canada, 2024](https://netscisci.github.io/2024/). 
+[1st NetSciSci, Vienna, Austria, 2023](https://netscisci.github.io/2023/). 
 
 ## Predecessors to NetSciSci
-[Science of Team Science & Innovation, Shanghai, China, 2022](http://teamsciences.org/netsci2022/) 
+[Science of Team Science & Innovation, Shanghai, China, 2022](http://teamsciences.org/netsci2022/). 
 [Knowledge Networks in Science and Technology, Indianapolis, USA, 2017]() 
