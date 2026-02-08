@@ -8,7 +8,7 @@ Please join us in Boston this June for the 4th edition of “Networks in Science
 
 **Scope**
 
-We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): **the analyses of relevant network data** (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), **development of novel methods for science of science applications** (e.g., graph embedding, link prediction), and **experimentations with representations** (e.g., hypergraph, multilayer graph). In addition, we seek submissions in the developing areas of exploration concerned with **the impact of diverse voices and intellectual backgrounds**, **political policies**, and **intelligences** (including Artificial Intelligence) on scientific advancements. A Best Student Paper Award will be voted on at the workshop by the audience. 
+We welcome submissions that explore the use of network approaches applied to studies in science of science. This includes (but is not limited to): **the analyses of relevant network data** (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), **development of novel methods for science of science applications** (e.g., graph embedding, link prediction), and **experimentations with representations** (e.g., hypergraph, multilayer graph). We encourage diverse perspectives and seminal work targeting under-explored topics related to Science of Science. A Best Student Paper Award will be voted on at the workshop by the audience. 
 
 This workshop does not have archival proceedings. Therefore, submissions can be:
 - recently published (2025-2026)
