@@ -7,7 +7,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="https://ischool.illinois.edu/sites/default/files/styles/large_square/public/images/YuanxiFu.jpg?itok=pV359inZ" alt="Yuanxi Fu" width="150" />
 <div class='bioWrapper'>
-[Yuanxi Fu](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her area of research is argumentation in science with an emphasis on theoretical and conceptual innovations. 
+[Yuanxi Fu](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her research interest include argumentation, Science of Science, AI for science, and social epistemology. The particular problem she studies now is unreliability propagation. 
 </div>
 </div>
 
