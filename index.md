@@ -10,7 +10,7 @@ Networks are particularly useful data representations for Science of Science., w
 As organizers of NetSciSci, we are committed to community building and fostering a new generation of Science of Science researchers. We hope to provide a platform for junior researchers, including graduate students, postdoctoral researchers, and pre-tenure professors, to disseminate their work. One paper, led by a graduate student, will be recognized with a Best Student Paper Award. We also organize a networking lunch/dinner to help participants connect.
 
 # Call for Participation
-Enter your submission on EasyChair [https://easychair.org/my/conference?conf=netscisci2025](https://easychair.org/my2/conference?conf=netscisci2026). CFP can also be found on the workshop website: [https://netscisci.github.io/cfp](https://netscisci.github.io/cfp). 
+Enter your submission on EasyChair [https://easychair.org/my2/conference?conf=netscisci2026](https://easychair.org/my2/conference?conf=netscisci2026). CFP can also be found on the workshop website: [https://netscisci.github.io/cfp](https://netscisci.github.io/cfp). 
 
 # Important Dates
 - **March 4**: Round 1 deadline  
