@@ -7,7 +7,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="https://ischool.illinois.edu/sites/default/files/styles/large_square/public/images/YuanxiFu.jpg?itok=pV359inZ" alt="Yuanxi Fu" width="150" />
 <div class='bioWrapper'>
-[Yuanxi Fu](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her research interest include argumentation, Science of Science, and social epistemology. Her current subjects of research include (1) unreliability propagation and (2) incoprating argumentation in human-AI co-creation workflow. 
+[Yuanxi Fu](https://yuanxifu.site/) is a PhD student in the **School of Information Sciences at the University of Illinois at Urbana-Champaign**. She received her MS in bioinformatics (2021) and PhD in chemistry (2015) from the University of Illinois at Urbana-Champaign and BS in chemistry from Nanjing University in China (2008). Her research interest include argumentation, Science of Science, and social epistemology. Her current subjects of research include (1) unreliability propagation and (2) using neurosymbolic methods to address trust issues in LLM outputs. 
 </div>
 </div>
 
