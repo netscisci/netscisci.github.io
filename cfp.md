@@ -29,13 +29,13 @@ Enter your submission on EasyChair [https://easychair.org/my2/conference?conf=ne
 
 We will conduct two rounds of submissions. If you want to take advantage of NetSci’s early bird registration rate, please submit to Round 1, and we will let you know our decision by March 18, 2026. 
 
--**February 4**: Call for abstracts is released  
--**March 4**: Round 1 deadline  
--**March 18**: Round 1 acceptance notice  
--**March 20**: Deadline for early bird registration rate (-US$100 from the regular rate, [https://www.netsci2026.com/registration](https://www.netsci2026.com/registration))   
--**April 18**: Round 2 deadline 
--**May 1**: Round 2 acceptance notice  
--**June 1**: workshop (afternoon) 
+**February 4**: Call for abstracts is released  
+**March 4**: Round 1 deadline  
+**March 18**: Round 1 acceptance notice  
+**March 20**: Deadline for early bird registration rate (-US$100 from the regular rate, [https://www.netsci2026.com/registration](https://www.netsci2026.com/registration))   
+**April 18**: Round 2 deadline 
+**May 1**: Round 2 acceptance notice  
+**June 1**: workshop (afternoon) 
 
 **The Organizing Committee**
 * Yuanxi Fu (contact), School of Information Sciences, University of Illinois Urbana-Champaign, USA
