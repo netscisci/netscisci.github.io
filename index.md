@@ -19,7 +19,7 @@ Enter your submission on EasyChair [https://easychair.org/my2/conference?conf=ne
 - **April 18**: Round 2 deadline 
 - **May 1**: Round 2 acceptance notice  
 - **June 1**: workshop (afternoon)
-- **June 1 to June 5, 2026**: NetSci conference
+- **June 1 to June 5**: NetSci conference
 
 # History
 ## Previous Editions of NetSciSci
