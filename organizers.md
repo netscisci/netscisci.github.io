@@ -12,16 +12,16 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
- <img src="assets/images/sarah.jpg" alt="Sarah Bratt" width="150" />
+<img src="assets/images/rodrigo.jpg" alt="Juan Pablo Bascur" width="150" />
 <div class='bioWrapper'>
-[Dr. Sarah Bratt](https://www.sarahbratt.com/) is an Assistant Professor at the **University of Arizona School of Information (iSchool)**. She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a Research Fellow at the Laboratory of Innovation Science at Harvard (LISH), a Teaching Fellow at the iSchool Inclusion Institute (i3), and has received several awards including the PhD prize in Information Science & Technology from Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow.   
+[Dr. Rodrigo Dorantes-Gilardi](https://rodogi.github.io) is a Associate Research Scientist and part-time Lecturer at **Northeastern University**. His research at NetSI centers on Network Science with applications in biology and the science of science. He currently work in the team of Albert-László Barabási, where they study the impact of biotechnology in science and innovation. Using computational methods, his work involves studying the factors that influence impact & recognition in creative fields.
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="assets/images/rodrigo.jpg" alt="Juan Pablo Bascur" width="150" />
+ <img src="assets/images/sarah.jpg" alt="Sarah Bratt" width="150" />
 <div class='bioWrapper'>
-[Dr. Rodrigo Dorantes-Gilardi](https://rodogi.github.io) is a Associate Research Scientist and part-time Lecturer at Northeastern University. His research at NetSI centers on Network Science with applications in biology and the science of science. He currently work in the team of Albert-László Barabási, where they study the impact of biotechnology in science and innovation. Using computational methods, his work involves studying the factors that influence impact & recognition in creative fields.
+[Dr. Sarah Bratt](https://www.sarahbratt.com/) is an Assistant Professor at the **University of Arizona School of Information (iSchool)**. She holds a B.S. in Philosophy from Ithaca College and M.S. in Library and Information Science with a Data Science certificate from Syracuse University. Her research lies at the intersection of scholarly communication, research data management, and science of science. The overarching goal of her research is to understand and design for long-term research data sustainability and actionable science policy. Her research has been published in Quantitative Science Studies (QSS), Journal of Informetrics, and Scientometrics. She was a Research Fellow at the Laboratory of Innovation Science at Harvard (LISH), a Teaching Fellow at the iSchool Inclusion Institute (i3), and has received several awards including the PhD prize in Information Science & Technology from Syracuse University and honorable mention as a 2022 Better Scientific Software (BSSw) Fellow.   
 </div>
 </div>
 
