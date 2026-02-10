@@ -12,7 +12,7 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-<img src="assets/images/rodrigo.jpg" alt="Juan Pablo Bascur" width="150" />
+<img src="assets/images/rodrigo.jpg" alt="Rodrigo Dorantes-Gilardi" width="150" />
 <div class='bioWrapper'>
 [Dr. Rodrigo Dorantes-Gilardi](https://rodogi.github.io) is a Associate Research Scientist and part-time Lecturer at **Northeastern University**. His research at NetSI centers on Network Science with applications in biology and the science of science. He currently work in the team of Albert-László Barabási, where they study the impact of biotechnology in science and innovation. Using computational methods, his work involves studying the factors that influence impact & recognition in creative fields.
 </div>
