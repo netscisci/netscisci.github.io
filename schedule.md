@@ -10,9 +10,10 @@ layout: default
 | Time      | Speakers |
 | ----------- | ----------- |
 |12:30pm - 1:30pm|Networking Lunch. Location TBA|
+|1:30pm - 2:30pm|Poster setup + poster viewing|
 |2:30 pm - 2:45 pm|Opening remarks|
 |2:45 pm - 4:00 pm|Paper presentation * 3|
-|4:00 pm - 4:30 pm|Coffee break + Poster Viewing|
+|4:00 pm - 4:30 pm|Coffee break + Poster viewing|
 |4:30 pm - 5:45 pm|Paper presentation * 3|
 |5:45 pm - 6:00 pm|Closing remarks|
 
