@@ -33,8 +33,8 @@ We will conduct two rounds of submissions. If you want to take advantage of NetS
 -**March 4**: Round 1 deadline  
 -**March 18**: Round 1 acceptance notice  
 -**March 20**: Deadline for early bird registration rate (-US$100 from the regular rate, [https://www.netsci2026.com/registration](https://www.netsci2026.com/registration))   
--**April 18**: Round 2 deadline  
--**May 1**: Round 2 acceptance notice  
+-~~**April 18**: Round 2 deadline~~ (due to the number of 1st round submissions and our capacity, there will not be a second round. sorry!) 
+-~~**May 1**: Round 2 acceptance notice~~    
 -**June 1**: workshop (afternoon) 
 
 **The Organizing Committee**
