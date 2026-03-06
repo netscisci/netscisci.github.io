@@ -16,8 +16,8 @@ Enter your submission on EasyChair [https://easychair.org/my2/conference?conf=ne
 - **March 4**: Round 1 deadline  
 - **March 18**: Round 1 acceptance notice
 - **March 20**: early bird registration deadline
-- **April 18**: Round 2 deadline 
-- **May 1**: Round 2 acceptance notice  
+- ~~**April 18**: Round 2 deadline~~ ((Due to the number of 1st round submissions and our capacity, there will not be a second round. sorry!)   
+- ~~**May 1**: Round 2 acceptance notice~~  
 - **June 1**: workshop (afternoon)
 - **June 1 to June 5**: NetSci conference
 
