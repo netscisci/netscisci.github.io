@@ -4,7 +4,7 @@ layout: default
 # Schedule
 - Location: **Hyatt Regency Boston Cambridge**
 - Afternoon of June 1, 2:30 to 6:00 PM
-- Networking dinner: 1.5 hour network dinner after the event to bond the participants. [RSVP here](). And we will email you about the location.
+- Networking dinner: 1 hour network dinner after the event to bond the participants. [RSVP here](). And we will email you about the location.
 - Best Student Paper award [vote here]()
  
 | Time      | Speakers |
@@ -15,7 +15,7 @@ layout: default
 |4:30 pm - 5:45 pm|Contributed talk *5|
 |5:45 pm - 5:55 pm|lightning talk * 2|
 |5:55 pm - 6:00 pm|Closing remarks|
-|6:30 pm - 8:00 pm|Network dinner|
+|6:30 pm - 7:30 pm|Network dinner|
 
 Please refer to the [NetSci 2026 program](https://www.netsci2026.com) for the full conference schedule. 
 
