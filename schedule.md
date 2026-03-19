@@ -21,7 +21,7 @@ layout: default
 |5:00 pm - 5:15 pm|Contributed talk 3||
 |5:15 pm - 5:30 pm|Contributed talk 4||
 |5:30 pm - 5:45 pm|Contributed talk 5||
-|5:45 pm - 5:50 pm|lightning talk 4||
+|5:45 pm - 5:50 pm|Lightning talk 4||
 |5:50 pm - 5:55 pm|Lightening talk 5||
 |5:55 pm - 6:00 pm|Closing remarks||
 |6:30 pm - 7:30 pm|Network dinner|Location TBA|
