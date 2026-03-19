@@ -7,7 +7,7 @@ layout: default
 - Networking dinner: 1 hour network dinner after the event to bond the participants. [RSVP here](). And we will email you about the location.
 - Best Student Paper award [vote here]()
  
-| Time | Speakers | Title |
+| Time | Speaker | Title |
 | ----------- | ----------- | ----------- |
 |2:30 pm - 2:45 pm|TBA|Opening Remarks|
 |2:45 pm - 3:15 pm|[Rodrigo Dorantes-Gilardi](https://rodogi.github.io)|TBA|
