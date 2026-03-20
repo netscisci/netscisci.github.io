@@ -16,8 +16,8 @@ layout: default
 |3:50 pm - 3:55 pm|Lightning talk 2|TBA|
 |3:55 pm - 4:00 pm|Lightning talk 3|TBA|
 |4:00 pm - 4:30 pm|Coffee break||
-|4:30 pm - 4:45 pm|Lorenzo Emer|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
-|4:45 pm - 5:00 pm|Contributed talk 2||
+|4:30 pm - 4:45 pm|Lorenzo Emer*|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
+|4:45 pm - 5:00 pm|Diana Terrazas Santamaría|Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?|
 |5:00 pm - 5:15 pm|Contributed talk 3||
 |5:15 pm - 5:30 pm|Contributed talk 4||
 |5:30 pm - 5:45 pm|Contributed talk 5||
@@ -25,6 +25,8 @@ layout: default
 |5:50 pm - 5:55 pm|Lightening talk 5||
 |5:55 pm - 6:00 pm|Closing remarks||
 |6:30 pm - 7:30 pm|Network dinner|Location TBA|
+
+*student presentation
 
 Please refer to the [NetSci 2026 program](https://www.netsci2026.com) for the full conference schedule. 
 
