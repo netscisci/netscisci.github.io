@@ -12,8 +12,8 @@ layout: default
 |2:30 pm - 2:45 pm|TBA|Opening Remarks|
 |2:45 pm - 3:15 pm|[Rodrigo Dorantes-Gilardi](https://rodogi.github.io)|TBA|
 |3:15 pm - 3:45 pm|[Dakota Murray](https://dakotamurray.me)|TBA|
-|3:45 pm - 3:50 pm|Lightning talk 1|TBA|
-|3:50 pm - 3:55 pm|Lightning talk 2|TBA|
+|3:45 pm - 3:50 pm|Onur Varol|[Academic support network reflects doctoral experience and productivity](https://doi.org/10.1140/epjds/s13688-022-00369-z)|
+|3:50 pm - 3:55 pm|Rafiazka Hilman|The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept|
 |3:55 pm - 4:00 pm|Lightning talk 3|TBA|
 |4:00 pm - 4:30 pm|Coffee break||
 |4:30 pm - 4:45 pm|Lorenzo Emer*|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
