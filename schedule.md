@@ -14,7 +14,7 @@ layout: default
 |3:15 pm - 3:45 pm|[Dakota Murray](https://dakotamurray.me)|TBA|
 |3:45 pm - 3:50 pm|Onur Varol|[Academic support network reflects doctoral experience and productivity](https://doi.org/10.1140/epjds/s13688-022-00369-z)|
 |3:50 pm - 3:55 pm|Rafiazka Hilman|The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept|
-|3:55 pm - 4:00 pm|Lightning talk 3|TBA|
+|3:55 pm - 4:00 pm|TBA|Envisioning Intelligences: Inviting discussions of collective intelligence visualizations|
 |4:00 pm - 4:30 pm|Coffee break||
 |4:30 pm - 4:45 pm|Lorenzo Emer*|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
 |4:45 pm - 5:00 pm|Diana Terrazas Santamaría|Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?|
