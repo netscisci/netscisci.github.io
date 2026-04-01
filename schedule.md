@@ -22,7 +22,7 @@ layout: default
 |5:15 pm - 5:30 pm|Contributed talk 4||
 |5:30 pm - 5:45 pm|Contributed talk 5||
 |5:45 pm - 5:50 pm|Qianyi Shen*|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
-|5:50 pm - 5:55 pm|Lightning talk 5||
+|5:50 pm - 5:55 pm|Tamás Kriváchy|[Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)|
 |5:55 pm - 6:00 pm|Closing remarks||
 |6:30 pm - 7:30 pm|Network dinner|Location TBA|
 
