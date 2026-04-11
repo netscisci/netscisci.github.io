@@ -6,7 +6,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/DrAgnesHorvat.jpg" alt="Dr. Agnes Horvat" width="150" />
 <div class='bioWrapper'>
-[Dr. Agnes Horvat is an Associate Professor of Communication and Computer Science (by courtesy) at Northwestern University, where she directs the Lab on Innovation, Networks, and Knowledge ([LINK]([url](https://agneshorvat.soc.northwestern.edu/))). Dr. Horvath's research lies in human-centered computing and network science and investigates how online spaces operate and disseminate information. She and her team's recent projects investigated the use of LLMs in scientific writing and music creation and study biases in online attention to science.
+[Dr. Agnes Horvat](https://agneshorvat.soc.northwestern.edu/) is an Associate Professor of Communication and Computer Science (by courtesy) at Northwestern University, where she directs the Lab on Innovation, Networks, and Knowledge (LINK). Dr. Horvath's research lies in human-centered computing and network science and investigates how online spaces operate and disseminate information. She and her team's recent projects investigated the use of LLMs in scientific writing and music creation and study biases in online attention to science.
 </div>
 </div>
 
