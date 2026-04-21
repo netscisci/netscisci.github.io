@@ -9,7 +9,7 @@ layout: default
  
 | Time | Speaker | Title |
 | ----------- | ----------- | ----------- |
-|2:30 pm - 2:45 pm|TBA|Opening Remarks|
+|2:30 pm - 2:45 pm|[Ágnes Horvát](https://agneshorvat.soc.northwestern.edu)|Opening Remarks|
 |2:45 pm - 3:15 pm|[Rodrigo Dorantes-Gilardi](https://rodogi.github.io)|TBA|
 |3:15 pm - 3:45 pm|[Dakota Murray](https://dakotamurray.me)|TBA|
 |3:45 pm - 3:50 pm|Onur Varol|[Academic support network reflects doctoral experience and productivity](https://doi.org/10.1140/epjds/s13688-022-00369-z)|
