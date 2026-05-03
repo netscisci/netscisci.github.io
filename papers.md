@@ -9,7 +9,7 @@ Diana Terrazas-Santamaria, Aurora A. Ramirez-Alvarez, Marcos Ehekatzin Garcia-Gu
 
 Lorenzo Emer, Anna Gallo, Mattia Marzi, Andrea Mina, Tiziano Squartini and Andrea Vandin. [The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224) \[student paper\]
 
-Lightening talk (5 min)
+## Lightning talk (5 min)
 Rafiazka Hilman and Júlia Koltai. The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept
 
 Katy Borner, Elizabeth G. Record and Todd N. Theriault. Envisioning Intelligences: Inviting discussions of collective intelligence visualizations
