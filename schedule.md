@@ -18,8 +18,8 @@ layout: default
 |4:00 pm - 4:30 pm|Coffee break||
 |4:30 pm - 4:45 pm|Lorenzo Emer*|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
 |4:45 pm - 5:00 pm|Diana Terrazas Santamaría|Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?|
-|5:00 pm - 5:15 pm|Contributed talk 3||
-|5:15 pm - 5:30 pm|Contributed talk 4||
+|5:00 pm - 5:15 pm|Roland Molontay|Status or Structure: What Drives Changes in Research Performance After Institutional Migration?|
+|5:15 pm - 5:30 pm|Csaba Kiss|Structural Change in Concept Networks Predicts Change of Scientific Elites|
 |5:30 pm - 5:45 pm|Contributed talk 5||
 |5:45 pm - 5:50 pm|Qianyi Shen*|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
 |5:50 pm - 5:55 pm|Tamás Kriváchy|[Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)|
