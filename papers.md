@@ -13,13 +13,14 @@ Csaba Kiss and Roland Molontay. Structural Change in Concept Networks Predicts C
 
 Eszter Tóth, Csaba Kiss and Roland Molontay. Status or Structure: What Drives Changes in Research Performance After Institutional Migration?
 
+Tamás Kriváchy. [Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)
+
 ## Lightning talk (5 min)
 Rafiazka Hilman and Júlia Koltai. The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept
 
 Katy Borner, Elizabeth G. Record and Todd N. Theriault. Envisioning Intelligences: Inviting discussions of collective intelligence visualizations
 Qianyi Shen and Alexander Gates. Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures \[student paper\]
 
-Tamás Kriváchy. [Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)
 
 
 
