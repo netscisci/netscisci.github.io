@@ -15,11 +15,12 @@ Eszter Tóth, Csaba Kiss and Roland Molontay. Status or Structure: What Drives C
 
 Tamás Kriváchy. [Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)
 
+Qianyi Shen and Alexander Gates. Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures \[student paper\]
+
 ## Lightning talk (5 min)
 Rafiazka Hilman and Júlia Koltai. The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept
 
 Katy Borner, Elizabeth G. Record and Todd N. Theriault. Envisioning Intelligences: Inviting discussions of collective intelligence visualizations
-Qianyi Shen and Alexander Gates. Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures \[student paper\]
 
 
 
