@@ -21,9 +21,7 @@ layout: default
 |5:00 pm - 5:15 pm|Roland Molontay|Status or Structure: What Drives Changes in Research Performance After Institutional Migration?|
 |5:15 pm - 5:30 pm|Csaba Kiss|Structural Change in Concept Networks Predicts Change of Scientific Elites|
 |5:30 pm - 5:45 pm|Tamás Kriváchy|[Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)|
-|5:45 pm - 5:50 pm|Qianyi Shen*|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
-|5:50 pm - 5:55 pm|||
-|5:55 pm - 6:00 pm|Closing remarks||
+|5:45 pm - 6:00 pm|Qianyi Shen*|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
 |6:30 pm - 7:30 pm|Network dinner|Location TBA|
 
 *student presentation
