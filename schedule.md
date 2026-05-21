@@ -2,7 +2,7 @@
 layout: default
 ---
 # Schedule
-- Location: **Hyatt Regency Boston Cambridge**
+- Location: **Kendall Square**, **Hyatt Regency Boston Cambridge**
 - Afternoon of June 1, 2:30 to 6:00 PM
 - Network dinner: 1 hour network dinner after the event to bond the participants. [RSVP here](). And we will email you the location.
 - Best Student Paper award [vote here]()
