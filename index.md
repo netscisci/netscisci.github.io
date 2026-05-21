@@ -3,6 +3,8 @@ layout: default
 ---
 This is the homepage for the 4th workshop on 'Networks in Science of Science' (NetSciSci), which will be held in Boston, USA, on the afternoon of June 1st, 2026, as a satellite event of [NetSci26](https://www.netsci2026.com).
 
+Our designated room is **Kendall Square @ Hyatt Regency Boston**. The workshop will run from 2:30pm to 6 pm, followed by a network dinner from 6:30 to 8 pm (location TBA). 
+
 # Overview
 
 Networks are particularly useful data representations for Science of Science., which connect various elements in the scientific community, such as scientists, institutions, journals, conferences, patents, and funding agencies. NetSciSci serves as an annual forum for presenting new developments in the application of network methods to the study of Science of Science. We will have both invited talks and contributed talks. We welcome research related to **the analysis of relevant network data** (e.g., citation networks, collaboration networks, semantic networks, knowledge graphs), **the development of novel methods** (e.g., graph embedding, link prediction, causal inference, interactive visualization), and **experimentation with representations** (e.g., hypergraph, multilayer graph). We encourage diverse perspectives and seminal work targeting **under-explored** topics related to Science of Science.
