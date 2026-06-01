@@ -3,7 +3,7 @@ layout: default
 ---
 This is the homepage for the 4th workshop on 'Networks in Science of Science' (NetSciSci), which will be held in Boston, USA, on the afternoon of June 1st, 2026, as a satellite event of [NetSci26](https://www.netsci2026.com).
 
-Our designated room is **Kendall Square @ Hyatt Regency Boston**. The workshop will run from 2:30pm to 6 pm, followed by a network dinner from 6:30 to 8 pm (location TBA). 
+Our designated room is **Kendall Square @ Hyatt Regency Boston**. The workshop will run from 2:30pm to 6 pm, followed by a network dinner from 6:30 to 7:30 pm. We will leave together from Kendall Square around 6:10 pm and find a place near Central Square.  
 
 # Overview
 
