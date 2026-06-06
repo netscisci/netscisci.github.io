@@ -16,15 +16,13 @@ layout: default
 |3:50 pm - 3:55 pm|Rafiazka Hilman|The Emergence and Evolution of Semantic Complexity: A Network Analysis of the Urban Digital Twin Concept|
 |3:55 pm - 4:00 pm|Katy Börner|Envisioning Intelligences: Inviting discussions of collective intelligence visualizations|
 |4:00 pm - 4:30 pm|Coffee break||
-|4:30 pm - 4:45 pm|Lorenzo Emer*|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224)|
+|4:30 pm - 4:45 pm|Lorenzo Emer (student paper)|[The hidden structure of innovation networks](https://arxiv.org/abs/2601.10224) **Best Student Paper Award**|
 |4:45 pm - 5:00 pm|Diana Terrazas Santamaría|Do Women Benefit More Than Men from Coauthoring with a Prominent Researcher?|
 |5:00 pm - 5:15 pm|Roland Molontay|Status or Structure: What Drives Changes in Research Performance After Institutional Migration?|
-|5:15 pm - 5:30 pm|Csaba Kiss|Structural Change in Concept Networks Predicts Change of Scientific Elites|
+|5:15 pm - 5:30 pm|Csaba Kiss (student paper)|Structural Change in Concept Networks Predicts Change of Scientific Elites|
 |5:30 pm - 5:45 pm|Tamás Kriváchy|[Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals](https://arxiv.org/abs/2511.01675)|
-|5:45 pm - 6:00 pm|Qianyi Shen*|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
+|5:45 pm - 6:00 pm|Qianyi Shen (student paper)|Does Interdisciplinary Collaboration Improve Funding Success? Evidence from Embedding-Based Measures|
 |6:30 pm - 7:30 pm|Network dinner|Location TBD. We will leave from Kendall Square around 6:10 pm and walk to Central Square|
-
-*student presentation
 
 Please refer to the [NetSci 2026 program](https://www.netsci2026.com) for the full conference schedule. 
 
